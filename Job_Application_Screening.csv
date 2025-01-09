@@ -1,0 +1,801 @@
+Application_ID,Age,Education_Level,Years_of_Experience,Skills,Previous_Job_Experience,Expected_Salary,Job_Level,Location,Application_Status
+4b896e58-5a91-474d-923f-31d35ec7349f,58,,1.0,JavaScript,No,136183.66153366456,Lead,Urban,Suitable
+7bc2ce13-2602-428b-9007-f3cdb7d8d3de,42,High School,22.0,C++,Yes,,Lead,Suburban,Not Suitable
+ebb94eb8-ba5d-4551-9877-4aeff1781ac7,54,Associate Degree,22.0,Python,No,76455.20077763041,Senior,Urban,Suitable
+b80482cc-43ac-4e29-b00f-af9e6fbffcfc,50,High School,,Excel,No,32120.19991623444,Senior,Urban,Not Suitable
+b783a4ac-c3c4-4317-a0db-1f0fb90c9ae9,21,High School,25.0,Java,Yes,94130.73027277834,Lead,Suburban,Not Suitable
+d08ac175-ef2d-4ad3-b4fb-0b7d0a55c7e7,29,Bachelor's Degree,0.0,SQL,Yes,149503.7849474433,Lead,Urban,Not Suitable
+c081497e-c093-448e-b180-b2c85ff066de,30,Associate Degree,,Java,No,57963.8070546671,Junior,Rural,Not Suitable
+32d1b38a-fbc5-473f-bcc5-5136e09219e0,56,High School,0.0,C++,No,120949.78932177732,Lead,Suburban,Not Suitable
+4ec05e8c-9694-480e-8917-cf7f13053f14,37,Master's Degree,21.0,Java,Yes,48401.44699013676,Senior,Rural,Suitable
+d9a6b033-798c-487e-b5b9-2abe0cdf48ed,35,,2.0,Python,No,73373.45843447902,Junior,Urban,Not Suitable
+94bb341e-8a41-4af1-a97e-78203ac1edaa,35,High School,13.0,Excel,Yes,99961.86145658905,Junior,Suburban,Suitable
+4685d709-8eec-45ff-88f6-0e06d9c4744a,31,Master's Degree,13.0,Python,No,56268.57224298405,Mid,Rural,Not Suitable
+26d45ba4-766e-4f89-b1c3-c28124fca64e,34,High School,,Java,No,73140.25923791398,Senior,Rural,Suitable
+0d3feeff-0125-486f-a298-339c4a304951,38,Bachelor's Degree,,SQL,No,136395.31445385318,Lead,Rural,Not Suitable
+fc96f29f-b395-4d1d-895e-24e3b249a294,43,Bachelor's Degree,17.0,JavaScript,No,39552.689135493245,Senior,Urban,Suitable
+00073698-5597-47fb-8976-d47d839f720f,53,,1.0,C++,No,136211.89490231103,Junior,Rural,Not Suitable
+b73a6ae8-cbbc-4e7c-9a8d-cefe10fa9441,43,High School,,JavaScript,No,63907.44715977918,Mid,Urban,Not Suitable
+c486feda-6a45-4517-8fa9-1a177f5119fd,45,Master's Degree,4.0,SQL,Yes,41548.60419861527,Junior,Suburban,Not Suitable
+d1b6af76-97cc-495f-931c-c7508a70d119,51,Bachelor's Degree,29.0,JavaScript,No,87818.29814683436,Junior,Rural,Suitable
+66532fb8-1f4d-4208-bd78-5b92826c3af0,42,Associate Degree,14.0,JavaScript,No,62908.55670610932,Junior,Urban,Suitable
+843f3292-1af3-46f1-9eaa-7f54cb8ffda3,25,High School,,JavaScript,Yes,146165.85166101804,Senior,Urban,Suitable
+14e2f22b-f273-4af0-9ea7-175b7da23a18,22,Master's Degree,1.0,JavaScript,No,60616.064755571344,Mid,Urban,Not Suitable
+3ebdae60-1868-4582-ad69-76c783fdde3f,45,,12.0,SQL,Yes,134381.99894888245,Senior,Suburban,Not Suitable
+6bfe7f1c-e8c9-4f9b-8a53-6225213e59ee,51,High School,19.0,SQL,Yes,146437.40177526962,Senior,Urban,Suitable
+8e2f24a9-9d4d-4196-98b1-88bb00df118a,43,Associate Degree,,SQL,Yes,73739.00321818845,Senior,Suburban,Not Suitable
+353b4076-5bda-4efd-ba55-567991d11e5b,45,Associate Degree,3.0,Python,No,,Lead,Urban,Suitable
+a50e7250-f4e9-45b7-a774-5d1824bfa11a,53,Bachelor's Degree,29.0,SQL,No,,Junior,Urban,Not Suitable
+94672086-86ef-48fa-be1a-7e1116aad84f,44,Master's Degree,6.0,JavaScript,No,,Mid,Urban,Not Suitable
+7a173607-a578-4318-8d5c-8a2e9b1461f1,34,High School,3.0,JavaScript,No,114798.09064099604,Mid,Rural,Not Suitable
+aba6edbc-9e0f-42b6-b299-3b35806e2b94,37,Master's Degree,,JavaScript,Yes,85644.90289478845,Senior,Rural,Not Suitable
+f32e8650-1885-4d22-b2b9-37fcfcfed667,31,,9.0,SQL,Yes,,Senior,Suburban,Not Suitable
+2db40537-516d-4a65-a15c-1877f93dd8a0,38,Associate Degree,15.0,Excel,Yes,141568.535494778,Junior,Suburban,Suitable
+7e674848-1787-40e8-b1dc-5b93ca43adc3,49,Bachelor's Degree,,JavaScript,Yes,82885.79243205197,Senior,Rural,Not Suitable
+5e534f21-3e47-4ada-8680-89dcbc44bd78,40,,25.0,Excel,Yes,97343.7538854978,Junior,Urban,Suitable
+50d9daf7-9b22-40b1-9d1e-84c0941eb4fc,54,,26.0,Python,No,,Junior,Suburban,Not Suitable
+0ced9878-566b-4853-886e-062888ca0aa9,56,Associate Degree,0.0,C++,No,110794.35064309988,Junior,Rural,Suitable
+f3760461-609b-42bc-9827-72c2a7790bc5,25,High School,,Java,Yes,145535.39489028841,Mid,Rural,Suitable
+70411f47-07fc-486f-9601-80d38ddab975,36,High School,26.0,Java,No,118806.65889087185,Lead,Suburban,Suitable
+aed19a34-4b63-45f0-9eb0-1af9fa4555ed,46,Bachelor's Degree,28.0,Java,Yes,121813.72848615704,Lead,Rural,Not Suitable
+2ab9e33d-e478-4f79-9156-bf9a218c4aca,22,Bachelor's Degree,1.0,Excel,No,,Mid,Urban,Suitable
+2cb8f94d-41f9-4424-ba1a-c3d9213ed05d,49,Master's Degree,25.0,C++,Yes,79743.19686074974,Junior,Urban,Suitable
+4de587a7-98f9-43f1-8c0e-8a9f1e488986,37,Bachelor's Degree,12.0,Communication,No,,Lead,Suburban,Not Suitable
+e745bc97-f68c-4d6d-9b71-51f9de9e427d,36,Bachelor's Degree,,Communication,No,117879.13923935255,Senior,Urban,Suitable
+d00dfc38-1cc0-4453-ba5b-a4e76ce5f945,41,Associate Degree,1.0,Communication,No,33967.58788015217,Junior,Rural,Not Suitable
+9cbc1413-e1c5-401a-8930-52f3ed56d4f8,49,Bachelor's Degree,6.0,Communication,No,47343.30849519206,Mid,Urban,Not Suitable
+65552f64-f260-46ad-a456-b5e1a7831796,42,,,Communication,No,126316.76261827978,Mid,Urban,Not Suitable
+aeac85ec-75b9-4c35-b2ef-900452dfd4ab,44,High School,27.0,Communication,Yes,52551.19050694958,Lead,Suburban,Not Suitable
+1c07a2d6-4c50-4d83-ab32-39be216093d6,29,Master's Degree,5.0,Excel,Yes,56341.438038095366,Junior,Rural,Suitable
+342d1b90-558e-4694-a795-ca8481b45b64,28,,,JavaScript,Yes,131964.85263770266,Junior,Rural,Suitable
+a8271af9-4a0b-4046-abe8-e5c5402b103d,30,Master's Degree,20.0,Communication,No,76318.46725624644,Lead,Suburban,Suitable
+bad35b65-602c-4394-9abf-b2abb2c488d7,20,Master's Degree,9.0,SQL,Yes,83561.27631925052,Mid,Suburban,Suitable
+8087664a-6476-4f83-bdd4-3e6cfb09993c,30,High School,8.0,Excel,No,94740.66042056624,Lead,Suburban,Suitable
+ba652421-4a51-454b-84d2-6004d9c259b4,38,Master's Degree,8.0,JavaScript,Yes,56859.21134801035,Mid,Suburban,Not Suitable
+9b631fd0-457d-481d-8d8e-9b5953a9a5cf,21,Bachelor's Degree,14.0,Excel,No,121307.53893799802,Mid,Rural,Suitable
+36cee14d-5d05-47d3-8b06-5fbaa3f84877,47,,20.0,SQL,Yes,112766.08317170713,Lead,Rural,Suitable
+26f8197f-9035-45d0-a754-43b6929d89cb,46,High School,8.0,SQL,No,118913.67365228172,Senior,Rural,Not Suitable
+8bb4a086-fde6-453c-9893-9bcb6a0f49ca,56,Master's Degree,6.0,C++,Yes,,Junior,Urban,Suitable
+9bf3d018-7dc2-400e-addf-99227c453743,46,Associate Degree,2.0,SQL,No,50542.61682680846,Junior,Suburban,Not Suitable
+1446d322-eada-49ab-86ef-3b0a21a0f741,59,Associate Degree,16.0,C++,Yes,136399.32653533993,Junior,Suburban,Not Suitable
+8b302e19-a8ce-4db6-8a28-e62d2f6fd9f3,30,Bachelor's Degree,,Python,Yes,,Senior,Urban,Suitable
+849d111f-7078-4d9a-bb7c-cbf1d6a56e44,46,,26.0,Python,No,39350.51098441928,Junior,Suburban,Suitable
+65864439-6b52-4267-8174-d4bbac8592cc,57,Master's Degree,,Communication,No,92291.4893129236,Junior,Urban,Suitable
+0377afbf-df7f-4934-803f-d85cab4de7a4,29,Bachelor's Degree,17.0,C++,No,131030.66819325286,Junior,Rural,Suitable
+01bad31f-ad45-46d3-94a8-c946ebbb52ac,44,Master's Degree,8.0,Python,No,64171.15328423183,Senior,Suburban,Suitable
+15709499-1bcf-4855-8280-95a09d5251ca,49,Bachelor's Degree,16.0,Python,Yes,36840.169102783104,Mid,Rural,Suitable
+c640329b-ca5e-403f-8511-0002b7ca7f4f,19,,9.0,SQL,Yes,137076.95908135799,Mid,Rural,Not Suitable
+efce64c4-b762-47a2-a1dd-33bb4f5268ad,25,,26.0,JavaScript,Yes,67294.47453373604,Lead,Suburban,Not Suitable
+81e0735b-c8df-47b2-9c07-31849e61036a,45,Bachelor's Degree,,Communication,No,104165.58496538163,Lead,Suburban,Suitable
+6d80afa2-8e04-46b3-92c7-dcb4f4e94ca2,49,High School,8.0,Communication,No,51302.0003941765,Senior,Suburban,Not Suitable
+1f02a3ef-dee3-4e67-b899-b99d29c00193,39,Bachelor's Degree,,C++,Yes,97060.67828789858,Lead,Rural,Not Suitable
+b87ae824-7f50-44c2-873e-0f68cd735a1e,35,,15.0,Python,Yes,,Lead,Suburban,Suitable
+685e5363-7adf-4291-b021-c68028a94613,24,Associate Degree,,Excel,No,146795.67257741428,Lead,Suburban,Suitable
+8db68d93-c0f8-4a04-b9a2-ec76a4cbe8a6,51,High School,5.0,JavaScript,Yes,51842.48508275019,Mid,Suburban,Suitable
+9f0e19dd-0e2d-4194-a16e-9265580ba44a,35,High School,0.0,Python,No,105189.37963251147,Lead,Urban,Suitable
+38543004-e992-45c8-8f65-da200be02037,36,,,Communication,Yes,128952.42580773693,Mid,Rural,Suitable
+ec18c61d-53f8-4e08-bed5-4cdde6fa8c35,55,Master's Degree,16.0,Java,No,43261.15458591464,Junior,Suburban,Not Suitable
+27f70b7f-5f61-4cdc-8ad6-301396c874bd,34,,8.0,C++,No,101019.75664119114,Lead,Suburban,Suitable
+2405afe2-ff84-41c8-afa1-7b3a18c13caa,36,,16.0,Excel,No,,Mid,Rural,Suitable
+514664f6-187b-4f5d-9972-5fdf6e17074a,32,Bachelor's Degree,8.0,Excel,No,127059.60041798142,Lead,Suburban,Not Suitable
+335a978b-1acb-4fbd-b0d2-f71ff485a625,50,Associate Degree,28.0,Communication,Yes,90829.26421738598,Junior,Suburban,Not Suitable
+896ac50e-dcb9-4d91-98f7-249c3807b312,18,High School,1.0,Communication,Yes,84359.67675490127,Senior,Suburban,Suitable
+f4f9f031-0257-4630-bda0-1025695a91e6,51,Bachelor's Degree,8.0,JavaScript,Yes,113398.81490019089,Senior,Suburban,Suitable
+19c74df9-6262-4796-962f-a81addda7147,20,Master's Degree,3.0,C++,No,138665.05950219213,Junior,Suburban,Suitable
+be3a7020-dc05-4918-aa18-6adf6333c53f,23,Associate Degree,,Java,No,76488.48011041485,Senior,Urban,Suitable
+e49bd8aa-6cf8-4959-baf7-1c5da7461e66,38,Associate Degree,8.0,Python,Yes,82930.38530179244,Lead,Suburban,Not Suitable
+7a7574dc-677b-4c41-83dd-eb222ef05c03,22,Bachelor's Degree,21.0,Python,Yes,66604.72693314178,Junior,Urban,Not Suitable
+4b8fc9c5-d6d7-43dd-a700-26eed5b10d77,44,Bachelor's Degree,24.0,Java,No,106759.09059725884,Lead,Suburban,Suitable
+0eaadb5e-e747-43d6-bb96-946c0182fff7,58,,8.0,Excel,No,41045.419920725326,Senior,Suburban,Not Suitable
+80e146ef-6c20-4bdf-a27c-da173de242df,25,High School,25.0,Python,No,67836.13949724114,Mid,Rural,Suitable
+0de9b012-4e6d-4f52-8c0a-6aa23ab1efa7,33,High School,1.0,SQL,Yes,63171.63191372604,Lead,Rural,Not Suitable
+c437964c-c760-49c5-917f-4a95c837d906,32,High School,15.0,SQL,No,98681.13012261146,Senior,Urban,Not Suitable
+1e305e49-fba7-4c76-819a-657effe80e2b,27,Associate Degree,5.0,SQL,Yes,98226.84365233593,Senior,Suburban,Suitable
+793710a8-ccff-479f-9cee-12dbbd2d3f50,21,,16.0,Communication,No,78502.53905656835,Senior,Rural,Suitable
+e91981d0-1ac7-4688-94b9-69b7bf1a48d9,35,Master's Degree,,JavaScript,No,100176.86254116762,Mid,Rural,Suitable
+f40e89f5-a6ab-4dd0-a360-e9fe30dd0d5c,31,Associate Degree,2.0,Python,No,48393.947617649515,Lead,Urban,Suitable
+ba3d3ce6-a643-4d9f-b9bf-6787418265a1,57,,16.0,JavaScript,No,48227.54384433929,Junior,Rural,Not Suitable
+dde6f3f3-447b-426d-8f5d-f1746a113a9f,24,Associate Degree,8.0,Python,No,97347.51000137063,Junior,Urban,Suitable
+645fef6f-0405-4bb6-82eb-b2a0d7fb8585,22,Bachelor's Degree,2.0,C++,No,113721.72438617247,Mid,Rural,Not Suitable
+ce25c442-3567-4b90-88ec-3194c379c78a,22,,,JavaScript,Yes,100969.45300325874,Senior,Urban,Suitable
+a61af1c1-f821-4a61-abb9-a46d4d418434,24,Associate Degree,7.0,C++,No,60574.28335925206,Lead,Suburban,Not Suitable
+8cc5c368-001d-41b1-bd79-2a16074acfef,26,Master's Degree,5.0,JavaScript,No,41892.595814154876,Senior,Urban,Not Suitable
+6b5a8613-f842-4f15-85be-e5608fd4ff9a,37,,19.0,SQL,No,141172.6350568866,Senior,Urban,Suitable
+b224ab64-e224-4748-99e5-a857ef913dbb,39,,11.0,SQL,No,83045.36822047703,Mid,Suburban,Not Suitable
+792976bb-c5f1-4729-aeff-d921bd550f94,44,Associate Degree,24.0,SQL,Yes,,Junior,Rural,Suitable
+0be6b6e1-93ac-4d66-8a27-416248208bc6,20,Bachelor's Degree,,Java,Yes,118016.92818933437,Lead,Urban,Suitable
+c1a3f7d4-bf21-4e7b-88ef-4c2f32ca9fc3,58,Associate Degree,,Excel,Yes,32551.348887321812,Lead,Rural,Not Suitable
+3640fc91-386b-4fad-b52b-0cb6d0fc7475,45,,25.0,C++,Yes,116013.34548735806,Mid,Urban,Not Suitable
+b9f5e3d0-0e74-4d09-8176-d45186a3b2ba,49,,1.0,Communication,No,41168.34577832811,Mid,Suburban,Not Suitable
+85445cb8-4d9e-4b3e-9324-5fc8e85e7111,53,Bachelor's Degree,28.0,C++,Yes,,Mid,Urban,Suitable
+3cede4b2-4394-40cc-aa6e-b2136a12692c,22,High School,8.0,SQL,Yes,137894.18740250575,Junior,Rural,Not Suitable
+1805ca73-9081-45c2-805c-e11636c4e1d6,29,Associate Degree,,Java,No,,Junior,Urban,Not Suitable
+b162928c-26d4-40d1-9efe-5518d2eb6e26,47,Master's Degree,,Communication,Yes,35156.49027703162,Lead,Suburban,Suitable
+bded3052-8b6f-412f-99fa-1866d097a336,19,Bachelor's Degree,4.0,Excel,Yes,80490.4612037634,Mid,Rural,Suitable
+83f39207-fc8f-4eaf-af0f-96e8381ee018,24,High School,,JavaScript,Yes,,Senior,Urban,Not Suitable
+21ca01de-3090-484c-8f81-8b6e31ca07ac,48,,27.0,JavaScript,No,78117.43523009248,Lead,Urban,Not Suitable
+22cc447d-9e02-4f42-921d-f4a42cddc6e6,22,,14.0,SQL,Yes,86872.85251127486,Senior,Suburban,Not Suitable
+36b6b549-8d1e-4685-a81c-23506111c3af,42,Master's Degree,13.0,C++,No,40496.92301942817,Lead,Suburban,Not Suitable
+ce0d4348-9744-4a4d-9092-b9227606fb72,34,High School,6.0,Python,Yes,101342.36642090078,Lead,Rural,Not Suitable
+ea7ffa9e-6649-43c4-8ec4-75a0d451eda2,47,Master's Degree,7.0,Communication,Yes,36359.193469241414,Junior,Suburban,Suitable
+0e19f2fc-9ceb-426d-a3e2-6aaddceb5650,47,Bachelor's Degree,,SQL,Yes,118970.0709887711,Junior,Urban,Not Suitable
+2f422a28-466d-4141-832f-5c6e80d78557,44,Master's Degree,,Java,No,,Lead,Suburban,Suitable
+90aa4922-a1d3-484e-a638-541b6010097f,44,Master's Degree,21.0,Java,No,70808.87167054496,Lead,Suburban,Not Suitable
+488c1b55-77e8-4d03-9151-88043375465a,46,Bachelor's Degree,21.0,JavaScript,Yes,38985.267041709885,Senior,Urban,Suitable
+575b1f77-bc59-4a5e-9e44-17c7551089d0,39,High School,,JavaScript,Yes,126960.24818809968,Lead,Urban,Suitable
+4491cf43-bf3e-4842-b490-17748f2f72d7,49,Bachelor's Degree,12.0,SQL,No,115165.92146935107,Mid,Suburban,Not Suitable
+89534cbd-7784-4726-a101-d7814d136b11,59,Bachelor's Degree,13.0,JavaScript,Yes,,Mid,Urban,Not Suitable
+f785d7aa-b788-4c9a-9331-53e34249db6c,29,Bachelor's Degree,,Communication,Yes,65631.64179104546,Senior,Urban,Not Suitable
+fdfa5bad-6f62-4a4f-9595-bfee33c4eea3,50,,4.0,Python,No,79588.18553887159,Lead,Suburban,Not Suitable
+908b06c8-80b9-415c-a4a4-8bdbeb2151d6,22,High School,13.0,SQL,Yes,146052.4681235507,Senior,Suburban,Not Suitable
+2068d068-7d0c-4d13-bd80-0cf0a8e86419,36,Master's Degree,4.0,JavaScript,Yes,73760.29532979839,Lead,Suburban,Not Suitable
+357d5a3e-2589-465f-92de-cbd7af5067bf,51,,4.0,SQL,No,54997.476891674145,Lead,Urban,Suitable
+24d37830-96da-44b7-b1d9-6e0543516577,45,Associate Degree,12.0,JavaScript,Yes,122044.0427291623,Senior,Rural,Suitable
+afe2b94a-340b-4e57-8954-b7e3f9cda070,52,Bachelor's Degree,26.0,JavaScript,Yes,,Lead,Suburban,Not Suitable
+91f1b539-e804-4344-822d-167420bf8371,31,Master's Degree,18.0,SQL,Yes,48780.73953918535,Junior,Suburban,Suitable
+916d0f49-71bd-4ea6-9349-696468c56f37,23,High School,25.0,C++,Yes,128215.73544619695,Senior,Suburban,Suitable
+4f8ea009-4571-45f7-be63-50dfe495ae3b,35,Associate Degree,9.0,Excel,Yes,100773.58006444371,Mid,Urban,Not Suitable
+c352de84-70de-436f-97ed-3cee0c79a74c,38,,24.0,C++,Yes,65997.04911324463,Mid,Suburban,Suitable
+3c9a8f09-fb08-4563-9fec-c60e14327bfd,58,Master's Degree,3.0,Communication,Yes,,Lead,Suburban,Not Suitable
+ece64c63-b9b7-4809-8da8-b4cedce6c00c,22,,11.0,SQL,Yes,126492.96409068245,Senior,Urban,Not Suitable
+760aa817-c8dd-4de0-95d5-67f66305ae45,50,Bachelor's Degree,15.0,C++,No,69022.36704767929,Junior,Rural,Suitable
+14225a58-dfd6-4f01-8e1c-867b03819d47,23,High School,,Excel,No,112802.6716336435,Mid,Rural,Not Suitable
+6765c35c-6b33-4993-a9b8-c09e1ab808d3,40,Bachelor's Degree,3.0,Communication,Yes,31825.206167119635,Lead,Urban,Not Suitable
+b20ee905-6681-477c-b1d2-7d6a0f7e180c,18,Associate Degree,,SQL,No,,Senior,Urban,Not Suitable
+8bc85236-4884-4a5b-8bb6-aa1d2bdddf7d,47,Bachelor's Degree,,JavaScript,Yes,60456.616269022954,Mid,Rural,Not Suitable
+0dc997e0-b4a9-4737-8d6f-2447dd44d06d,37,Bachelor's Degree,26.0,JavaScript,No,134888.86974459744,Junior,Urban,Not Suitable
+0eef15a5-ff62-47e7-a63f-a5e06daeed95,24,Associate Degree,4.0,JavaScript,No,144662.82995482482,Senior,Suburban,Suitable
+42f1c8dc-8981-47cb-9008-8bcd6df8cce5,30,Master's Degree,21.0,Communication,Yes,,Senior,Suburban,Suitable
+17bd8d4c-829c-4b45-b792-4a72763b4710,18,Bachelor's Degree,11.0,SQL,Yes,58035.941443323616,Mid,Suburban,Suitable
+536bb17b-13eb-4517-9075-6c07396b1a44,31,,23.0,C++,No,66745.55030355431,Mid,Urban,Suitable
+3210493c-6db7-45f5-9a0c-28836c46573d,19,Master's Degree,7.0,JavaScript,Yes,,Mid,Urban,Not Suitable
+3e07d00d-8e3f-4d95-8561-4a532a860d10,35,Bachelor's Degree,28.0,JavaScript,Yes,31959.45074117187,Senior,Suburban,Not Suitable
+0313148d-a894-4634-8597-d5a1bc1fc52d,48,Bachelor's Degree,2.0,Excel,Yes,,Senior,Suburban,Not Suitable
+0291fbbd-1caa-4344-8f5b-e2718ee8b8ff,35,Bachelor's Degree,15.0,SQL,No,131936.80831105605,Junior,Urban,Suitable
+309e8835-4c19-4119-a1c5-93ffd997487f,40,Bachelor's Degree,23.0,SQL,Yes,37900.40017259538,Lead,Urban,Not Suitable
+2dc44cdb-4ef5-4609-abad-c66d8633d28c,27,Associate Degree,10.0,Java,No,,Junior,Suburban,Not Suitable
+267493a7-58be-42df-b984-fd1e8684180f,33,Bachelor's Degree,8.0,JavaScript,Yes,111862.84701130878,Junior,Urban,Suitable
+1694bc8c-8bb8-4874-ae41-174d6a2363a5,25,High School,,Java,Yes,39532.99358694182,Lead,Urban,Not Suitable
+c4db2f1c-5363-4179-b7c6-d902436c723c,40,Associate Degree,12.0,JavaScript,No,111060.47860987445,Mid,Suburban,Not Suitable
+df357392-8cdb-4058-bb80-e6cfcdfc90c0,18,Master's Degree,24.0,Communication,Yes,110804.90994026788,Senior,Urban,Not Suitable
+c11cb71a-41ba-45ec-9580-1d40756f37fb,43,,6.0,Python,Yes,96482.32688356402,Junior,Suburban,Not Suitable
+9ee9d504-70d4-442b-814a-a674610e3501,20,High School,4.0,Python,No,77203.87067868019,Lead,Suburban,Suitable
+0ffd35d6-2fd9-45cc-8216-c584e48ae128,36,,12.0,Python,No,43452.23886034597,Junior,Urban,Suitable
+6e9bef47-af2b-4010-b62f-53a4843d184f,37,Master's Degree,17.0,Communication,Yes,52018.15959986996,Junior,Urban,Suitable
+45919f95-d54f-464d-8a55-b30cdb9d7c91,53,Associate Degree,3.0,Communication,Yes,127794.79517555979,Lead,Rural,Suitable
+a9406572-7a82-4893-98f3-63f4e4949a7d,33,High School,22.0,Communication,No,137569.20684580802,Mid,Rural,Not Suitable
+62990b4a-e77b-439a-89f2-61228b536b74,24,High School,21.0,C++,Yes,103301.27438599538,Junior,Rural,Not Suitable
+5e62f622-d63c-4a9e-bf29-c6da3a1cb2f0,30,Bachelor's Degree,13.0,C++,No,59275.600580742335,Mid,Urban,Not Suitable
+8c348720-c7d8-4399-b849-409b0d6635cc,38,Master's Degree,27.0,SQL,Yes,93744.84185075773,Mid,Urban,Not Suitable
+6727233d-2704-4a5d-a280-4104bd81aeff,29,Bachelor's Degree,27.0,Communication,No,54978.198933069434,Mid,Urban,Suitable
+b6510508-95fc-408e-ad39-986052679ed5,44,Associate Degree,10.0,JavaScript,No,71164.70372474034,Junior,Rural,Suitable
+843a6eed-dc76-4fbb-b5d6-4d4c4a1d99f6,33,High School,22.0,Communication,No,105286.38900301272,Junior,Rural,Suitable
+7d5da779-3965-48f9-a409-04ecd21d1250,24,Master's Degree,,Communication,Yes,71788.33294918417,Junior,Urban,Not Suitable
+49a962d5-0988-44bf-970d-a2c1247c3052,36,Associate Degree,13.0,JavaScript,No,144894.33501775668,Junior,Urban,Suitable
+f7b036d4-87b4-477d-a0d0-86fc0378057e,48,,,Communication,No,,Senior,Urban,Not Suitable
+b4a21522-0328-494c-bf3e-1a4c5a49879f,54,Associate Degree,22.0,C++,No,51021.980176924364,Junior,Urban,Not Suitable
+f9013dc3-7a48-49cc-a12c-997967597ca1,32,,19.0,SQL,No,82702.32070081535,Senior,Urban,Not Suitable
+de82dc7a-3ea3-425c-9e3b-3bbfce50583e,38,Associate Degree,12.0,SQL,Yes,107697.58350698822,Mid,Suburban,Suitable
+cf73388e-49d7-4cc4-8e72-0c39831f05d2,51,High School,9.0,Communication,No,122861.65891558504,Junior,Urban,Suitable
+845a0b01-b9b5-4242-8cd3-f6c28ebbb5b5,58,Associate Degree,,Python,No,96222.49876804126,Junior,Suburban,Suitable
+cb45be92-361c-4b89-8e03-c4a45853db15,36,Associate Degree,14.0,Java,Yes,62354.64784277008,Junior,Rural,Suitable
+a10318c2-f184-4dd1-8341-e2f333cc2b67,49,Bachelor's Degree,22.0,Java,No,146328.4591244646,Junior,Suburban,Suitable
+51f39573-d205-4533-b296-6aa4e0067a6e,28,High School,23.0,SQL,No,111454.29011566924,Mid,Urban,Suitable
+98180f03-6d1a-4ce6-8ff3-2c3d7d1526ef,19,Master's Degree,14.0,Python,No,54943.52828921828,Mid,Suburban,Suitable
+8b5bae1e-a5cc-417e-b8f2-feedaac11094,50,Associate Degree,1.0,Java,No,116348.87022820029,Junior,Rural,Not Suitable
+c8f51d24-980b-4610-be85-2a957892711a,37,Associate Degree,5.0,Python,No,111898.52090889419,Lead,Rural,Suitable
+73217247-4462-4051-9c94-54c4e5844c9a,59,Bachelor's Degree,5.0,JavaScript,No,43327.32179507627,Junior,Urban,Not Suitable
+d39f923b-fca6-4b9f-8f2c-9cdab50502b1,57,Associate Degree,1.0,SQL,No,75041.7594141757,Junior,Rural,Suitable
+611103c7-5676-4418-9e50-82366be730c0,46,High School,,C++,No,,Lead,Rural,Not Suitable
+bfd7c082-5cc3-4cd5-9d2e-e9c71e1e2706,43,Associate Degree,4.0,Communication,Yes,,Junior,Rural,Not Suitable
+d27cabfc-5374-4775-9fd8-66c6fcac06ea,27,Bachelor's Degree,0.0,SQL,No,139186.34608532616,Junior,Rural,Suitable
+e44e5c98-628f-4ec6-8686-62d17f631924,19,Associate Degree,,Excel,Yes,86190.16076994684,Mid,Urban,Suitable
+2e75294e-11fe-4745-b602-81ede6a242c7,43,Bachelor's Degree,27.0,Java,No,82573.21498912922,Lead,Rural,Suitable
+65f105a6-4315-4738-a9ca-af141288e940,38,Master's Degree,26.0,Excel,Yes,66901.83652511545,Mid,Rural,Not Suitable
+0807944e-4127-4a72-a9a9-50b3e2066ab4,55,High School,6.0,JavaScript,No,90947.33282142645,Mid,Suburban,Not Suitable
+c810ec25-c1ea-4895-8b9e-e79b7dab9575,22,Master's Degree,2.0,Communication,No,45149.70884644303,Senior,Urban,Not Suitable
+5bf31db8-ae73-4986-9df2-63eb2ac8a131,35,Bachelor's Degree,21.0,Java,Yes,102764.33705426859,Senior,Suburban,Suitable
+d98ae9cf-8ca1-4205-91c2-7043bc3f6ee3,48,Associate Degree,,Java,No,129491.9220804958,Junior,Urban,Not Suitable
+2d849e38-3a85-4e1e-8e54-0d0f178cb9d1,43,Master's Degree,14.0,C++,No,114983.38289528094,Mid,Rural,Suitable
+07ae234f-5331-4823-a8a3-8dd9ae012ba2,48,Master's Degree,16.0,Java,No,77073.18043197866,Mid,Suburban,Not Suitable
+a6e5c2a5-8966-4f02-9691-820967d67cda,29,High School,7.0,JavaScript,No,94865.38951472266,Junior,Urban,Suitable
+33d5bc3b-699b-4e3c-938b-ed246253adfb,44,High School,24.0,SQL,No,120986.50245678592,Mid,Suburban,Suitable
+3ae3c801-a07f-4bd5-b221-6b86274c88fc,18,Bachelor's Degree,29.0,SQL,Yes,51640.47592887035,Senior,Urban,Not Suitable
+618c36f6-9fca-470f-9e7d-fe84ba8f6153,20,Bachelor's Degree,23.0,Excel,Yes,57032.662333323984,Senior,Suburban,Suitable
+0deb0420-bb37-4186-befe-809f4d5dc1a1,28,High School,,JavaScript,No,147503.55877765059,Lead,Urban,Not Suitable
+a53445c1-dfcf-40dd-89ae-1db2a5ef1254,46,Bachelor's Degree,14.0,C++,No,32732.14980924977,Senior,Urban,Suitable
+58d2c4e2-6a5b-4e06-94c0-49f67779a2d2,21,High School,15.0,Java,No,34176.28860156175,Junior,Rural,Not Suitable
+5ec86b35-255a-470f-9459-f6c81af2e3be,57,High School,25.0,Excel,Yes,111530.82876007765,Senior,Rural,Suitable
+dbca4f73-da1b-47b6-a6e9-316fa3972f22,21,Master's Degree,29.0,JavaScript,Yes,84368.92297199408,Junior,Urban,Not Suitable
+7792e23a-6580-413c-9e46-b0e699f56b68,41,Associate Degree,21.0,JavaScript,No,50904.389500326666,Senior,Rural,Not Suitable
+adc4b026-75aa-4af7-825e-d8d858e56a4a,59,Associate Degree,15.0,Python,No,,Junior,Rural,Suitable
+90c98dcd-c2a1-4a0c-8f58-2049b980ef93,40,Associate Degree,19.0,C++,Yes,126942.16581778682,Lead,Suburban,Not Suitable
+319c3964-0c07-49c2-b0ea-7c202eda0788,26,Associate Degree,14.0,Excel,No,147138.00602498194,Lead,Urban,Suitable
+464fe817-1349-4254-9079-61c57799ace7,25,Master's Degree,12.0,Communication,Yes,110887.59571776945,Senior,Suburban,Suitable
+ef964ed6-4fe4-48a2-8396-08402f1bfb71,44,Bachelor's Degree,18.0,Java,No,128564.3395187061,Junior,Rural,Not Suitable
+626c8f79-c91c-4bb4-9d93-0e0b1217496e,59,,,Python,No,56998.79100662678,Senior,Urban,Suitable
+8991293b-bb15-4cf9-83a2-cc4df6c5be0d,26,Associate Degree,25.0,SQL,No,,Senior,Suburban,Not Suitable
+78d8638b-cb56-4194-8faf-67abf0d8f248,49,Associate Degree,14.0,Excel,Yes,90583.1883599324,Junior,Rural,Not Suitable
+e1dcae4f-6b2b-4791-8c9b-33a194b9f0fb,23,Associate Degree,4.0,C++,Yes,55717.24633056156,Junior,Rural,Not Suitable
+1cad4f83-bca4-4631-8184-d1ee98ef2bd3,58,High School,24.0,Excel,Yes,96755.43046850972,Junior,Urban,Suitable
+0cd9578f-6c75-4f4d-b174-cc8f96d7d1e5,40,Bachelor's Degree,6.0,C++,Yes,54389.996414716254,Mid,Urban,Not Suitable
+905b7619-5fb7-45f7-a4e4-49bdcf3da0d6,30,High School,28.0,SQL,Yes,141681.49235271334,Lead,Suburban,Suitable
+70ebc12f-7f38-41a9-8d05-b4265c3a8be5,21,Master's Degree,20.0,Python,No,,Junior,Urban,Suitable
+35581fd8-8b26-4637-b814-3dfcc2b84a5f,35,Associate Degree,9.0,Communication,No,,Senior,Suburban,Not Suitable
+0836e854-7eda-4f5d-b355-650f84837a32,36,High School,25.0,C++,Yes,101367.87031997526,Senior,Suburban,Suitable
+c20bec2c-963b-4e0b-a9be-f619851647c7,43,High School,7.0,JavaScript,Yes,62383.99291567416,Mid,Rural,Not Suitable
+d10c5a2e-9dc0-431a-a292-5a172180eed9,54,Master's Degree,,Python,Yes,139062.8371644817,Lead,Suburban,Not Suitable
+c84f333e-130f-468b-9513-f0be66d27940,37,Bachelor's Degree,19.0,Java,No,,Mid,Suburban,Suitable
+b0fd8f22-da8a-40fb-a1e2-7f4da9cc8f0e,34,Master's Degree,13.0,Excel,Yes,47526.67046034393,Lead,Urban,Suitable
+89d1d21d-ea51-4845-9747-aaecc1257128,44,High School,4.0,Python,Yes,136378.1169594183,Lead,Suburban,Suitable
+b976fe13-f376-43a4-a04c-4f481a55e108,39,Associate Degree,22.0,Communication,Yes,73234.54430591594,Senior,Urban,Not Suitable
+7a6340d9-cd13-467d-95fe-4d39327c0aeb,18,Associate Degree,3.0,Python,Yes,107322.16008921913,Senior,Suburban,Suitable
+09742e6d-78c0-4c77-9934-9a79bcd3264a,34,Master's Degree,12.0,Excel,Yes,132602.04713209273,Lead,Suburban,Not Suitable
+74d91a18-ab0a-4880-baeb-65662db68a8c,40,Bachelor's Degree,28.0,Java,No,90398.28660314153,Mid,Suburban,Suitable
+15686aa1-5fc0-479b-8c7b-19be7b107b55,23,Bachelor's Degree,4.0,SQL,Yes,141256.5284436948,Lead,Rural,Suitable
+ec45f4c1-00b6-4fa5-92bf-233657315e68,34,High School,2.0,Communication,No,120211.01622289453,Senior,Suburban,Not Suitable
+2cae7c63-9ddf-40c7-a8a4-8608a8c737db,18,Master's Degree,4.0,Excel,Yes,75302.49598878574,Mid,Urban,Not Suitable
+1e60dc9d-95d2-4ad4-aaa8-d972194f952e,32,Master's Degree,3.0,JavaScript,Yes,44896.92405186221,Lead,Rural,Not Suitable
+8c676e2e-0383-426c-8b99-840d598292a5,57,Associate Degree,6.0,Excel,Yes,131280.04281383584,Senior,Urban,Not Suitable
+59c548ab-162d-4409-8bcf-f54633983d26,59,Master's Degree,21.0,SQL,No,109480.97405668057,Lead,Suburban,Suitable
+6c10a272-e5ee-4629-8406-a5edd36cf23f,51,Master's Degree,12.0,JavaScript,No,114649.0099975033,Senior,Urban,Not Suitable
+2608d5ea-2c08-4345-83e1-c0064a394b2f,53,Associate Degree,18.0,Python,Yes,,Junior,Urban,Suitable
+830aedf4-cb52-4de4-acdc-f9638f749643,31,Associate Degree,,JavaScript,Yes,34481.43999973552,Senior,Rural,Not Suitable
+a684e913-5a8a-4977-9f0e-98f731c8cccd,46,Master's Degree,12.0,Python,Yes,58800.378319683296,Mid,Urban,Not Suitable
+c6ed7491-594d-41f5-a949-0f6e95fa2a22,56,Master's Degree,14.0,JavaScript,No,147887.95515399572,Lead,Rural,Not Suitable
+00b165a1-8983-4a01-b22b-f8a4df6efb3d,47,High School,16.0,Python,No,86461.24808789944,Senior,Urban,Not Suitable
+6555b5d1-709c-47ad-b0d7-d1f454818f7c,46,Master's Degree,2.0,C++,Yes,,Lead,Rural,Suitable
+1c2c9816-2b40-431a-8274-9f3210120f98,46,,18.0,Communication,Yes,45317.58406564253,Mid,Suburban,Not Suitable
+04f703d6-3afa-43de-8fb9-c904bfd71a09,51,Master's Degree,0.0,Python,Yes,109684.72302866694,Senior,Rural,Not Suitable
+8a5f4c73-72da-451e-a001-896a97c5eb6c,45,High School,19.0,C++,No,134866.93699629864,Junior,Suburban,Suitable
+c6389bce-ae2a-4f1b-88d2-9195d93fc46c,41,Associate Degree,,C++,No,109497.85113531446,Junior,Urban,Suitable
+3bdaee49-194a-42af-8d86-d7e7a0ff8ebc,30,Master's Degree,19.0,Python,No,71097.45537889688,Junior,Suburban,Not Suitable
+6a0bd085-e181-427c-8f3a-f8e676e31430,36,Bachelor's Degree,26.0,JavaScript,No,66271.284721454,Junior,Rural,Not Suitable
+8636849c-25c0-40f1-a8a2-9d4b99935e2b,56,Bachelor's Degree,,SQL,No,41447.63109862846,Lead,Suburban,Not Suitable
+6a9add77-118e-49bb-a853-46eb1fc44306,54,Bachelor's Degree,0.0,Python,Yes,145694.0214917134,Senior,Urban,Not Suitable
+4e1f545e-6cc6-454d-8a11-e45630d49ff1,22,,5.0,SQL,No,63690.37229139158,Junior,Rural,Suitable
+d84bcc2a-8948-4d15-8a9e-91755caaa213,29,Associate Degree,8.0,JavaScript,Yes,33165.17673704824,Junior,Suburban,Not Suitable
+12453340-e2ab-47da-88a2-476105b2912c,24,Master's Degree,,Java,No,147487.6266699603,Junior,Urban,Not Suitable
+6546fbd8-4ffb-4c12-b51b-28deb52a6202,40,Bachelor's Degree,25.0,Python,Yes,135840.02737003565,Lead,Urban,Not Suitable
+5b9a0c7f-99f8-4a71-95d8-bc5565b0b0f5,50,Master's Degree,19.0,C++,Yes,125417.76728431862,Mid,Urban,Not Suitable
+d716da54-a0b9-4bca-a907-a4d69fcf1227,48,Associate Degree,25.0,C++,Yes,80624.52014251675,Senior,Urban,Not Suitable
+803e2ed8-2a2b-4695-a94d-fdd7bb1d60d2,56,High School,26.0,Communication,Yes,96480.43959851246,Senior,Rural,Not Suitable
+afc87112-daff-41a4-aa2b-f9bd2f4e8e00,21,Associate Degree,2.0,C++,No,129349.62856365477,Lead,Suburban,Not Suitable
+7947765a-add2-4162-ba24-924b8b7f56ae,19,Master's Degree,13.0,Communication,No,117771.72415207012,Mid,Suburban,Not Suitable
+b56b4e9e-3521-4e59-92e0-dde20ecc5622,38,High School,13.0,Excel,No,,Senior,Rural,Suitable
+7fc3d678-6c52-4421-ab72-d380f37941cb,20,Master's Degree,13.0,Communication,Yes,114846.12341154739,Mid,Urban,Not Suitable
+3f73e915-56f6-4fe7-bced-ca7a78742067,36,Master's Degree,14.0,SQL,Yes,,Junior,Urban,Suitable
+fcc5a3c5-872f-456c-a33d-5a6a6150c0db,18,Master's Degree,,C++,No,51099.10240676049,Senior,Urban,Suitable
+ddfa4140-b770-4b00-bbf0-19eae541cf15,41,High School,21.0,SQL,No,96677.97859659688,Mid,Rural,Suitable
+f671de52-26ef-4e25-b03d-3236aa9971b0,49,Master's Degree,,Communication,Yes,99617.44359684276,Junior,Urban,Suitable
+a5967cf4-fae5-47c9-a920-38414e0cf80d,44,Master's Degree,2.0,Java,No,42199.888401708595,Junior,Urban,Suitable
+bc6fd058-215f-45fb-94ac-5444720df9e1,20,High School,17.0,Communication,Yes,95009.73214922484,Junior,Urban,Not Suitable
+1488e6e2-12f6-41f1-93ef-59e99762112f,42,,7.0,Excel,No,39474.46056469892,Lead,Suburban,Suitable
+4e07b246-4259-4ebb-bed5-72a159f383b2,23,,0.0,Python,Yes,39362.20711974635,Lead,Suburban,Suitable
+9349e595-9fa6-42f1-977c-d919929abaac,59,Associate Degree,9.0,Python,Yes,111218.2311751289,Lead,Suburban,Suitable
+edd50be1-d743-43a8-9178-b9ae60f53ff2,51,Master's Degree,26.0,C++,Yes,,Senior,Urban,Suitable
+5fc3bcd8-ead5-4620-903c-227c16f0e059,19,,27.0,SQL,Yes,82620.05864340186,Junior,Urban,Not Suitable
+2ef63990-7acc-46f6-833f-a0724ccf81ba,35,Bachelor's Degree,7.0,JavaScript,No,79556.37699546019,Senior,Suburban,Not Suitable
+15f33d14-5c03-46c2-ac25-50c70050f653,43,Bachelor's Degree,,Python,Yes,85276.98174940835,Mid,Rural,Suitable
+bd2f3ef0-447d-4078-bf57-a0c7b08b416d,33,Master's Degree,5.0,Python,No,99626.22156972591,Mid,Urban,Suitable
+7589abfe-5b57-494b-98b5-f53e3aecdda0,42,Bachelor's Degree,12.0,Excel,No,139649.18256975518,Mid,Suburban,Not Suitable
+b618c26e-371d-416d-93c4-a69c1e8c8218,57,Associate Degree,10.0,C++,Yes,80595.65276875664,Mid,Rural,Not Suitable
+c0749b92-d018-479c-993d-b420cab39c33,21,,17.0,Java,No,136694.20788181128,Lead,Urban,Suitable
+02dbd0a2-3ba4-4561-bb30-ae1aa4d45c98,31,Associate Degree,27.0,Java,No,38205.92054988271,Lead,Suburban,Not Suitable
+5894961e-58d9-44fb-b6cc-07b9320cc1b5,21,Bachelor's Degree,14.0,Communication,Yes,34667.65802658584,Lead,Suburban,Not Suitable
+ae84b058-93d7-4b54-be9a-ddc61c73e899,20,Master's Degree,1.0,SQL,Yes,83247.04010039,Mid,Rural,Suitable
+fd28136b-9493-45f4-9bdb-e90fc9243df5,56,Associate Degree,16.0,SQL,No,110215.06503286224,Lead,Suburban,Not Suitable
+d5331460-48c0-418e-93bd-41486b914a0f,22,High School,17.0,Java,No,128078.63209141801,Senior,Suburban,Suitable
+ead80940-f80c-4c89-b0c6-e9c80f56d66a,19,Bachelor's Degree,19.0,SQL,No,49726.3729698066,Junior,Suburban,Not Suitable
+aa99ee21-1851-4ffd-acff-48dbb2c3a7df,20,Bachelor's Degree,8.0,Python,No,108358.3160862847,Junior,Urban,Suitable
+dabc7d74-8610-4f48-b333-8b6c8190c507,35,Master's Degree,10.0,Python,Yes,131607.78203721484,Junior,Suburban,Suitable
+051ec4ec-2198-4694-b13e-ad006e2f0739,20,High School,,JavaScript,Yes,90055.18559455893,Mid,Urban,Not Suitable
+c0003e0a-07c5-4a1d-91f1-ac28fada0a05,20,High School,23.0,C++,No,35478.267709461674,Mid,Rural,Not Suitable
+ea7f5f93-8eb9-47ce-9016-f01905da99d4,42,Bachelor's Degree,24.0,Excel,No,114749.57446970968,Lead,Rural,Not Suitable
+d85ca408-bf43-484b-abcb-9d8bcadc119c,25,Associate Degree,,Excel,Yes,137535.22970969885,Senior,Rural,Suitable
+639c062c-6057-4f46-9ed9-c70889cb5302,55,Associate Degree,26.0,SQL,Yes,72796.88782277433,Senior,Suburban,Not Suitable
+dd70a3e2-584d-4743-823c-63262ec2a8cd,49,Associate Degree,26.0,Python,Yes,113599.1373271699,Junior,Suburban,Suitable
+c9725183-a100-4fd7-be2d-b4ea838a4eb9,44,Master's Degree,15.0,C++,No,35706.07436145666,Mid,Suburban,Suitable
+a625c53e-03a1-4082-80d3-f9557a3b9f08,23,,0.0,JavaScript,Yes,96673.09333248732,Senior,Rural,Suitable
+106e4ee1-075b-4aea-ac05-9e5faf7f61cd,44,High School,,C++,No,55331.8523355324,Junior,Suburban,Suitable
+2dfaeff5-b741-4400-9329-9eeb424be7de,21,High School,23.0,Excel,Yes,104568.40940624282,Junior,Rural,Suitable
+93e37ba8-025d-4b74-9f3e-1027cfec0d00,27,,9.0,SQL,No,53327.11594105582,Junior,Rural,Not Suitable
+2fbe6bf7-ab94-44ae-8c42-c7e7ecc710e8,37,High School,12.0,SQL,No,60222.29292759709,Senior,Urban,Not Suitable
+ade0a82b-c91f-4af3-9704-345ebc0721ae,34,High School,,C++,Yes,55640.50148661948,Mid,Rural,Suitable
+8e304cb6-3d27-498c-8264-84226bcf2e5e,30,High School,12.0,SQL,Yes,98085.77748055098,Junior,Suburban,Not Suitable
+627df914-3b55-43e7-ae39-c211ead568d2,25,Associate Degree,11.0,Excel,No,34645.53746016079,Mid,Urban,Not Suitable
+79d8a3cd-48e4-4748-89a7-e08dff9274c7,52,Master's Degree,26.0,Python,Yes,119213.2452430094,Senior,Rural,Suitable
+9d9da938-bab8-4a28-9c6c-cd4ebebfb402,45,Bachelor's Degree,19.0,JavaScript,Yes,,Junior,Suburban,Suitable
+f633ddaf-4f54-4c47-8d36-7df8f65bc73b,47,Associate Degree,11.0,Excel,Yes,97117.38462360331,Junior,Suburban,Not Suitable
+1619130d-936d-4710-a215-b92eacd18446,55,Master's Degree,5.0,Java,Yes,140540.75647052465,Mid,Urban,Suitable
+226df5ec-df9d-447f-b00e-2404618cf60e,56,Master's Degree,1.0,Java,No,57811.24602863446,Junior,Suburban,Suitable
+0eede528-ca18-4e02-85f9-4b7c7bceb5cf,26,Master's Degree,8.0,Excel,No,115127.97931928057,Mid,Urban,Suitable
+d53055a3-8a43-44d4-b38a-81af9a21216c,36,Bachelor's Degree,4.0,Communication,No,112087.0745262909,Senior,Urban,Suitable
+cbe25f42-3a33-4060-88fa-7cb491912c98,37,Associate Degree,11.0,Java,No,,Lead,Suburban,Suitable
+c30eb6dd-22e2-48fc-8735-2164940aebbb,25,High School,19.0,Excel,Yes,31372.446659312343,Junior,Suburban,Not Suitable
+6d2adaca-2a06-4aae-84c0-cba214b07563,33,Master's Degree,5.0,SQL,Yes,72423.6966505612,Lead,Rural,Not Suitable
+7315ba79-adb6-4253-b742-7ed7ac85435b,38,High School,29.0,Java,No,34316.02656078686,Senior,Rural,Not Suitable
+e73dce16-c127-4b07-839c-528ca5dc203a,47,Bachelor's Degree,10.0,JavaScript,Yes,35850.00285081292,Junior,Suburban,Not Suitable
+f7c5a1cb-99d8-4bf5-b399-3b6401793853,18,,24.0,SQL,No,108276.41003113458,Junior,Suburban,Not Suitable
+0279191d-1a15-4e55-abac-949d44ff6cdf,46,Master's Degree,1.0,Java,Yes,61848.31427519374,Lead,Rural,Suitable
+5aa24695-7c16-497f-913f-ef1fa595dc62,48,Bachelor's Degree,11.0,Java,No,,Lead,Rural,Not Suitable
+3bed6a77-0291-4c71-be03-7601413113f2,51,Associate Degree,9.0,JavaScript,Yes,100208.68381946842,Junior,Suburban,Not Suitable
+a10575c0-cb21-4eff-886c-a90cfec1478a,48,Master's Degree,28.0,C++,No,,Lead,Suburban,Suitable
+54d106f8-2986-40f5-95f6-2cef0ad0aa34,59,Bachelor's Degree,10.0,JavaScript,No,79974.07279741004,Mid,Urban,Suitable
+08c4717b-0a71-4077-afaa-dfba612bddeb,36,Associate Degree,,Communication,No,98844.60702492496,Senior,Urban,Not Suitable
+1e0188b0-78d6-4871-a670-e6c7e79b4b22,30,Associate Degree,6.0,Excel,Yes,108266.65239852907,Senior,Rural,Suitable
+c13c6239-5df9-40b7-b98a-c20d4dc09d5e,57,,24.0,Communication,Yes,44809.94960436148,Mid,Rural,Suitable
+ce665050-34ee-42d2-a692-504e3b4f0086,41,High School,1.0,Communication,Yes,119775.79844104586,Senior,Rural,Suitable
+8ad0aeec-1daa-4dbe-b8fd-00c3d4dba32e,47,Associate Degree,21.0,Excel,No,100373.50616104934,Senior,Rural,Not Suitable
+3c7ff001-bd21-4917-871f-42a59101c253,52,Associate Degree,20.0,SQL,Yes,148233.02956528036,Lead,Rural,Not Suitable
+8a87156d-6f4e-46c1-ba38-9aa25438ca37,30,High School,2.0,Java,No,39599.56444882676,Junior,Urban,Suitable
+b11cc4f3-fd45-47da-bb59-a68d3503ab87,20,Master's Degree,3.0,SQL,No,143215.35279213235,Junior,Rural,Suitable
+712571b0-a135-49d8-ad95-be7b288ab3cb,57,Bachelor's Degree,14.0,Excel,No,71299.66023987395,Senior,Suburban,Not Suitable
+9a4a9698-124c-4ed6-8633-2ee3b0bfa004,58,Associate Degree,29.0,Java,No,86224.16435116745,Senior,Rural,Not Suitable
+7e66d35a-7681-4ea4-9089-af7fefa5e5c6,54,Associate Degree,6.0,Communication,No,52158.84781133942,Mid,Urban,Not Suitable
+03973e23-f096-41cf-9fb2-29f9b689f917,57,Master's Degree,,C++,No,148762.60281443768,Lead,Urban,Not Suitable
+ca37975c-3a60-4c8b-971a-3e260ee71639,28,Master's Degree,9.0,Python,Yes,,Lead,Rural,Not Suitable
+ced97bb3-4167-4b4d-bc0e-790c177d0f1d,33,,17.0,Excel,Yes,54701.46765222987,Senior,Urban,Suitable
+8943789a-ef10-456b-8dc4-76cb6d907f00,35,High School,3.0,Python,Yes,31512.77257034039,Junior,Rural,Suitable
+ecbfda90-236b-4697-a4ba-c42dd16e5994,38,Bachelor's Degree,,Communication,Yes,116728.09491354591,Junior,Rural,Not Suitable
+48057061-777b-4ee7-9efe-24386f4a0a65,49,Associate Degree,15.0,JavaScript,Yes,32365.90261663541,Junior,Suburban,Suitable
+ccc5ba89-3967-48e7-8628-2fceee8be632,46,Master's Degree,13.0,SQL,Yes,53917.9372708754,Senior,Rural,Not Suitable
+2798eda2-e5f0-414b-904e-cb5699e8a5aa,52,Master's Degree,20.0,Excel,No,35727.13038543232,Lead,Rural,Suitable
+fd6b03a4-3ee5-40bf-97ba-67ac9c7bcb2f,27,Associate Degree,24.0,SQL,Yes,90844.12961826278,Lead,Rural,Not Suitable
+5bf1d343-6c46-4275-beed-d0cefac56147,46,High School,20.0,Excel,No,109094.04834593079,Junior,Urban,Not Suitable
+4620030e-6f4b-4716-afd6-bdcd7dd29ccb,51,Master's Degree,2.0,SQL,Yes,116143.10434612248,Senior,Urban,Not Suitable
+f79c66fa-4342-466f-9dd3-1f49ff98f5d3,26,Master's Degree,11.0,SQL,No,75370.59459816242,Junior,Rural,Not Suitable
+e9b562a8-2cf4-47aa-9841-f7e70de4e961,59,Associate Degree,23.0,SQL,No,,Senior,Urban,Suitable
+d6d40f77-6bd7-4fbe-b124-0aef0a8cc49a,38,,22.0,C++,No,94995.63036599486,Mid,Suburban,Not Suitable
+5dcb5ec3-c419-40a8-887a-ff4c476277f6,36,High School,7.0,Communication,Yes,32612.824092429302,Senior,Suburban,Not Suitable
+b0f6efd9-da1a-4c24-adf4-bec0746bb563,19,High School,24.0,Communication,No,71718.26894267944,Senior,Rural,Not Suitable
+33ed688a-6976-4f12-995d-447bd4b9bde9,20,Bachelor's Degree,21.0,SQL,No,139795.3493128955,Senior,Suburban,Suitable
+e6e3967a-b3ee-4692-983d-99989a4a3cee,19,Master's Degree,2.0,C++,Yes,126163.43017767981,Junior,Suburban,Suitable
+3ab5e726-e9b1-4d0d-8f93-6e2b48116774,35,Associate Degree,13.0,Excel,Yes,75580.71258378612,Lead,Rural,Not Suitable
+ef7332cb-8d1b-4b3c-a407-e30944e66cdc,44,Associate Degree,10.0,JavaScript,No,107363.28253349895,Mid,Urban,Suitable
+b6553cd0-82d4-4119-8ce5-31ad420e6e5a,39,,16.0,Java,Yes,76013.86412317546,Junior,Suburban,Suitable
+0293549f-2c2b-417e-86a9-9db2904c3bdb,31,Associate Degree,10.0,Java,Yes,107916.57974785155,Senior,Urban,Suitable
+ac333ca0-3649-40fe-8240-6fed712f2309,34,Bachelor's Degree,7.0,Python,No,137880.2859770073,Lead,Urban,Not Suitable
+5b2ee6ea-a199-4d63-b492-67a2197fdbb0,42,Associate Degree,26.0,Communication,Yes,108020.44081819437,Junior,Suburban,Not Suitable
+03e4daad-fdc8-4829-8b53-ece8d28d8d50,18,High School,1.0,C++,No,78674.25516643998,Senior,Suburban,Not Suitable
+f8742bae-684e-4b24-af46-9c0030d90239,48,Associate Degree,28.0,SQL,Yes,34988.331286357774,Mid,Suburban,Suitable
+6d4ad7b3-9189-4c1e-9896-bfbe298a283c,40,High School,3.0,Communication,Yes,59661.31007734603,Junior,Rural,Not Suitable
+e484954a-52d9-49d6-98f4-a547a5a53a5c,43,Bachelor's Degree,,C++,No,72586.40194559388,Mid,Suburban,Suitable
+929d6d29-8fc7-41c9-a650-12c0d2c6423a,45,Bachelor's Degree,14.0,Excel,No,113566.52454986775,Junior,Suburban,Not Suitable
+2239e4a0-c9c2-40af-b719-9dd8ee3750f2,33,Master's Degree,15.0,Excel,No,64301.449544857926,Senior,Urban,Suitable
+bc72d7de-ed35-4101-911c-7fb2fde047b6,41,High School,16.0,Excel,Yes,132203.2271534275,Junior,Rural,Suitable
+5118c612-461b-4a2f-9015-014050463d14,56,Bachelor's Degree,6.0,C++,Yes,134291.23299390907,Mid,Suburban,Suitable
+3e6caf38-c84e-465b-abfe-6d35ca5083d5,55,,16.0,Java,Yes,96047.59873579037,Lead,Rural,Suitable
+f34a56bf-01ec-49e0-ae46-b7fde0cfabf5,27,Associate Degree,0.0,C++,Yes,123607.92154565499,Senior,Rural,Not Suitable
+0ec9fed5-f403-4564-8b9e-ae60de55a1bc,50,High School,3.0,Communication,Yes,100783.6875793957,Junior,Suburban,Suitable
+c86cd7de-b97a-40f4-8610-534c650dbf92,29,,20.0,SQL,Yes,101365.04824843416,Mid,Urban,Suitable
+0fcfdf62-d960-4337-9085-3115892fd795,33,Associate Degree,24.0,C++,No,98233.46336898212,Lead,Rural,Not Suitable
+da9e2462-c3b5-4102-b7a1-71d9341d5dce,36,Associate Degree,,Communication,Yes,104661.77274605984,Mid,Suburban,Not Suitable
+85959782-774e-48f1-b38d-ac3dcd0dea64,26,Associate Degree,10.0,Excel,No,81940.62139770604,Mid,Rural,Not Suitable
+de2b243a-fd60-4ad4-8e74-f2be5d38cca6,19,Bachelor's Degree,14.0,Communication,No,103841.67416561935,Lead,Urban,Not Suitable
+30bf4aae-fcb1-4f42-9033-744afb023845,46,Associate Degree,6.0,SQL,No,67877.72495750092,Senior,Suburban,Suitable
+daa0bb2a-6fb6-413b-87bc-e25ee452c38b,28,Bachelor's Degree,8.0,Python,No,115771.28058300781,Junior,Suburban,Not Suitable
+cf79b39c-1746-4d2b-8511-d2b3b464cf0b,22,Master's Degree,22.0,C++,Yes,81691.52705874352,Mid,Rural,Suitable
+e03cb444-5ea8-4da5-bc5e-0d31c56737e2,23,High School,18.0,SQL,No,100707.0484087342,Mid,Rural,Suitable
+43d88436-3ed0-4af2-acf0-4dbdc842f4bb,51,Master's Degree,16.0,C++,No,133771.52188035173,Junior,Suburban,Suitable
+94df261e-876c-437b-adb4-4c054da52fdf,39,Master's Degree,18.0,Java,Yes,36556.048155423116,Lead,Rural,Not Suitable
+7a471349-2b0a-4e5f-8a50-29b4bb156467,24,Associate Degree,,Excel,No,,Lead,Urban,Suitable
+ea04b9d5-238c-49a5-91c9-45ca5fcdd531,50,High School,13.0,Java,Yes,137615.22921119997,Junior,Rural,Not Suitable
+1d9c26cc-918a-4fc2-9cde-59daa250a7cf,43,,15.0,Java,Yes,91551.2747754011,Mid,Suburban,Not Suitable
+71d687d4-6a2d-4d8c-a4a0-0ce490e62b09,35,,21.0,Python,No,111311.89548099598,Senior,Urban,Not Suitable
+d8a1b3fc-8b10-4ee8-8e01-113570765d76,46,Associate Degree,29.0,SQL,No,90165.54760988147,Lead,Urban,Not Suitable
+2c941f6f-d4a2-46d8-8db3-9386917d3850,41,Master's Degree,10.0,SQL,No,,Senior,Urban,Not Suitable
+13a57b11-86ab-4c4f-8ef4-553a9c1cae88,28,High School,1.0,Java,No,,Senior,Urban,Not Suitable
+c5d9902f-2da0-49c4-9574-2d3503731ed4,58,High School,6.0,C++,Yes,68250.6921955919,Senior,Urban,Suitable
+e70bc361-c497-4382-b658-9da29cd8af8f,33,Bachelor's Degree,9.0,JavaScript,Yes,113311.7628111931,Lead,Urban,Not Suitable
+a31e3a3a-6288-4395-aaf4-b80ddb2b41bc,19,High School,4.0,C++,Yes,121223.86037789824,Lead,Urban,Not Suitable
+718febea-48dd-4855-9b58-f216c772450d,37,Associate Degree,,Excel,No,127918.89954078766,Mid,Suburban,Suitable
+7afdbfc1-6150-4d36-89fd-604de7da61b3,20,Associate Degree,0.0,Python,Yes,69539.35046484711,Mid,Suburban,Suitable
+a735702d-18b3-4a76-b7bc-9d65d7ddf6b2,48,,20.0,C++,No,92197.07059556227,Senior,Suburban,Not Suitable
+3efbd673-96b2-43bb-b798-93fdc682a41a,52,Master's Degree,4.0,Communication,Yes,58513.88963068288,Senior,Urban,Suitable
+21d13fc9-c250-44fa-afc9-0855c72937a3,57,Master's Degree,7.0,Communication,No,100052.55080920708,Mid,Suburban,Suitable
+13f32492-8747-441c-b54a-a03602b77391,54,Master's Degree,21.0,Java,Yes,117513.41232792019,Senior,Urban,Not Suitable
+4564f386-ffac-4ef6-ba1c-885d204bfe6a,38,Bachelor's Degree,,JavaScript,Yes,31088.356719285897,Junior,Suburban,Not Suitable
+e8ce0135-0420-46e2-b350-f9f2e9e49d5e,50,High School,19.0,Communication,Yes,30688.496916111184,Junior,Suburban,Not Suitable
+6e01a51f-0f09-4e16-898d-75b7a7f92968,28,Master's Degree,,Java,Yes,80335.73807146613,Senior,Rural,Suitable
+3726d885-44da-4294-ad0a-9617248c59b6,54,Master's Degree,19.0,Communication,Yes,79846.53976442339,Senior,Rural,Not Suitable
+652a9792-3290-4a9d-bf0d-9ad7700920e0,19,Master's Degree,6.0,Communication,No,96967.03224453104,Lead,Suburban,Not Suitable
+85268bb2-8206-400c-aa57-4b14eb270a51,25,High School,21.0,Communication,Yes,,Junior,Rural,Suitable
+70ba11c8-9eb5-467e-983f-e19c71a23242,26,Master's Degree,23.0,Python,Yes,112517.11087981929,Mid,Urban,Suitable
+927900a9-9bb9-42d7-9833-f42bdfdf1bf5,54,Bachelor's Degree,29.0,Communication,Yes,,Mid,Urban,Suitable
+0a826016-39c7-4f88-9087-28f70e449d02,50,Bachelor's Degree,3.0,Java,No,52711.45068686464,Senior,Rural,Not Suitable
+d14b9ae3-036a-4902-8b80-2546d20c2d08,48,High School,13.0,Python,Yes,123027.76970233815,Junior,Rural,Not Suitable
+35e5b433-8c51-4826-ab8d-ba367c692c2d,31,High School,,JavaScript,Yes,60471.791145858166,Mid,Urban,Suitable
+c040a78b-9103-44f2-ab06-c2c974e587c8,43,Master's Degree,10.0,Java,No,108062.06107387558,Lead,Suburban,Not Suitable
+24119686-f4db-4175-9434-8be45a035f2f,58,,23.0,Python,Yes,37586.23219459474,Lead,Rural,Not Suitable
+f79d78e0-a76c-47f8-80f8-55b3cf45f5a1,26,Associate Degree,17.0,C++,No,124538.45982966114,Mid,Urban,Suitable
+ff70a290-60c8-4689-acf7-917933d4cc5d,44,Associate Degree,24.0,Java,Yes,58280.74020564974,Lead,Rural,Not Suitable
+183541e5-56ce-45ea-99ac-8ced88e1f88c,45,,27.0,JavaScript,Yes,77458.05306715822,Senior,Rural,Suitable
+afbfb640-940a-4bd8-8467-e59c4de738cc,21,Bachelor's Degree,9.0,Excel,Yes,110598.0663177492,Mid,Urban,Not Suitable
+af3e33e5-b89f-4dc6-9ba8-60391bee6a03,49,,,Communication,No,43842.601400402695,Lead,Rural,Suitable
+fed769ac-dad2-4ad0-9391-fb6f1d93a4fa,26,Master's Degree,,Python,No,54862.5153397814,Junior,Suburban,Suitable
+f958b213-7c66-438c-bd22-9da8d588e49c,42,,20.0,SQL,Yes,76993.56165824176,Junior,Rural,Suitable
+697efb61-da13-44d5-b9a4-6c9164e10c2b,35,Master's Degree,1.0,Excel,No,66583.68652981948,Mid,Rural,Not Suitable
+219e9d2a-1f13-4b1c-862a-96bb8ff9fb77,51,High School,26.0,JavaScript,Yes,68813.85197339489,Lead,Rural,Suitable
+5c0bda48-af7a-4639-87c7-dc1ab1b4c9f6,45,,17.0,Java,No,32954.71430501645,Lead,Urban,Not Suitable
+c2135578-be89-46ce-9fec-dd42475602ac,29,Bachelor's Degree,25.0,Excel,No,94501.12065191235,Junior,Urban,Suitable
+16947ed6-d3cd-4950-b6eb-78f64e1f8a37,43,Master's Degree,21.0,SQL,No,51606.220174018774,Senior,Suburban,Suitable
+f2bd782d-8cc4-4d9e-8990-f985864ac087,34,High School,,Python,No,147657.67973031942,Senior,Rural,Suitable
+fad94595-9ffa-4399-9a45-3eab4abaa7f9,56,Bachelor's Degree,18.0,C++,No,46405.82050730892,Mid,Urban,Suitable
+3c4ba196-67d3-4a81-9ac3-5c9696d4e13d,46,Master's Degree,19.0,Excel,Yes,143505.6624044744,Senior,Suburban,Not Suitable
+d218b6e8-b93b-4444-b666-a24d374622e1,54,High School,10.0,Communication,No,121758.43538614575,Senior,Rural,Suitable
+697316bc-39be-4d80-a947-9a8da681692a,50,Associate Degree,29.0,Java,No,66596.64260462135,Lead,Urban,Not Suitable
+7ae43995-4826-4de4-a2c1-9c850090c6d2,23,High School,,Python,No,99888.80823486144,Mid,Urban,Not Suitable
+b73dc661-dd1c-4f7f-841d-1a8773acf3d6,59,Master's Degree,19.0,Excel,Yes,95773.21620609921,Lead,Suburban,Not Suitable
+fa357d66-4c54-40f3-940d-4ff3a2d4b70e,59,,3.0,C++,No,30967.11508633323,Senior,Suburban,Suitable
+f7b4f16b-a258-4f12-8829-d9a496ef3fcf,24,High School,,C++,Yes,122628.30536818104,Mid,Suburban,Suitable
+bcfcd741-65f4-4787-a7c2-2e097f410142,43,Associate Degree,12.0,SQL,Yes,133674.25282407965,Senior,Urban,Not Suitable
+f82ad8d8-25fc-426a-93c4-f79503e6820f,25,High School,14.0,JavaScript,No,142435.4987669764,Mid,Urban,Suitable
+f22d947a-1142-4984-bc5c-adea90a60a86,55,Master's Degree,26.0,Excel,No,,Senior,Urban,Suitable
+6be1db24-1502-4136-a110-9d969e68300a,56,High School,7.0,JavaScript,No,103703.0235067687,Lead,Urban,Suitable
+7358d730-0a4f-4ac5-93d7-cf897b1ba7e9,55,Bachelor's Degree,9.0,C++,No,135152.94937882276,Senior,Rural,Suitable
+74a72f82-989e-49e0-8c3b-394eef592557,52,Bachelor's Degree,5.0,Communication,Yes,85665.37626220402,Lead,Rural,Suitable
+3e1c42e3-abd9-462b-8790-c591b6672287,50,Bachelor's Degree,2.0,Communication,No,43180.037766403046,Mid,Suburban,Not Suitable
+cb0156dd-f73e-4410-96fd-09267a280014,36,,14.0,JavaScript,Yes,,Lead,Urban,Not Suitable
+b3b65de4-d343-4fc7-8744-9553a09bc93c,48,Bachelor's Degree,1.0,JavaScript,Yes,122419.40306002577,Junior,Rural,Not Suitable
+6744a063-8f3d-4bf0-9268-b255f6fa6ed6,18,Bachelor's Degree,23.0,JavaScript,No,66182.66239354754,Junior,Rural,Not Suitable
+61d333c1-630d-4797-9754-4542295d6eab,54,Master's Degree,21.0,Python,No,,Junior,Suburban,Suitable
+69c5b6cb-2f27-404d-a55a-545bb9729755,29,,23.0,Java,No,35058.49225883617,Senior,Urban,Not Suitable
+13f57f24-6d8c-46bf-95b7-2ac20b14513c,56,Master's Degree,,Python,No,,Lead,Urban,Not Suitable
+5a7661ab-06bc-4a2c-8c52-a27d109c9955,26,,4.0,Java,Yes,134330.63777494925,Lead,Rural,Suitable
+90e773b8-52c4-466b-9fba-09f614a2edb2,46,Associate Degree,11.0,SQL,No,148261.82410241698,Senior,Rural,Not Suitable
+38cadb9d-d9bc-48a8-918c-08a285c6e7dc,35,High School,21.0,C++,No,60160.65009973654,Mid,Rural,Suitable
+88649518-8541-49b8-a312-900a2a0d7c1d,18,Master's Degree,2.0,Java,No,134121.07751019334,Mid,Rural,Not Suitable
+9c72cec1-2f5a-4e93-949b-9efbc48704cb,55,Bachelor's Degree,,Excel,No,43886.76242820424,Mid,Rural,Not Suitable
+4eeba9aa-dbcc-4142-ac04-dc53774b28ee,39,Bachelor's Degree,15.0,C++,No,64180.53076419503,Mid,Suburban,Not Suitable
+9c648352-596e-4374-8279-4e8053ed038d,22,Bachelor's Degree,3.0,SQL,No,119691.95510500383,Senior,Rural,Suitable
+61fd32e8-acc8-4813-8775-f8a363b15b28,43,High School,2.0,Python,No,,Senior,Rural,Not Suitable
+d7b4453c-483c-426d-b9f5-3bf220ef4a08,50,Associate Degree,17.0,SQL,No,140294.64221207247,Mid,Rural,Suitable
+51109636-fe28-4e82-a3aa-432ca266280d,48,High School,,SQL,No,49419.319024795994,Mid,Urban,Suitable
+fe8d390d-60b6-4420-bb34-4f65e540ce33,48,Master's Degree,5.0,Excel,Yes,,Lead,Urban,Not Suitable
+19f27905-c580-46d2-b702-8ab4893f6846,56,High School,17.0,SQL,No,99857.2762857096,Mid,Rural,Suitable
+021c53af-d9bb-4f3d-9530-3d39ed23b1cc,29,Bachelor's Degree,18.0,Java,No,46723.4292721309,Junior,Rural,Suitable
+e1ccc53d-d349-4a36-a1be-a6fc4cb220c4,31,,18.0,SQL,No,95290.43040222317,Mid,Suburban,Suitable
+d8585d50-2e61-414c-a400-00dcf56e3abd,33,High School,,Communication,No,135008.98265188304,Junior,Suburban,Suitable
+b0734469-e9a2-45fa-a22e-995c11b018e2,55,Associate Degree,12.0,Java,No,66910.31160057877,Lead,Suburban,Suitable
+a7f4950c-f163-4fea-99a7-a5988dde5730,54,Master's Degree,6.0,Java,Yes,74534.64405863255,Senior,Rural,Suitable
+4247c353-a380-499b-a245-c6b133efa29a,44,Master's Degree,15.0,C++,No,41736.793584481275,Junior,Urban,Suitable
+84476945-9e28-4721-be91-58a54b421b3d,23,,3.0,Java,Yes,61735.29111236055,Mid,Rural,Not Suitable
+d9dff156-92fa-48e0-bed0-30e67b0ebc46,40,Bachelor's Degree,7.0,C++,Yes,99788.02992430759,Senior,Suburban,Suitable
+d7e32430-aa8b-4e70-b332-91feb736424b,40,,14.0,JavaScript,No,113395.82700464656,Lead,Suburban,Suitable
+7be61920-9a2c-4a95-9a5a-ba48e444790c,42,Master's Degree,28.0,Excel,No,109548.42111730635,Senior,Suburban,Suitable
+4d0dcdad-2fdf-4247-8d8e-3fa5c2e0ab92,53,Master's Degree,13.0,Python,No,53494.138097136616,Lead,Urban,Suitable
+3e62e08b-5720-420f-9173-bd3d895ef25b,57,High School,9.0,Java,Yes,42867.144478873095,Mid,Urban,Not Suitable
+181665cf-1291-405f-87f7-882d7589b8c0,21,Master's Degree,21.0,Java,Yes,145479.0283766027,Mid,Suburban,Not Suitable
+ffe3aa18-7bb5-4611-8554-3f7abbac7ee1,40,Bachelor's Degree,,Excel,Yes,51765.85248916475,Senior,Suburban,Suitable
+3c68bf4c-8ad5-4995-ad4d-f9e2b3dd4866,36,Bachelor's Degree,18.0,SQL,No,116074.56701553683,Mid,Urban,Not Suitable
+a018f66c-c5bc-4ccc-9df2-28035a19ccd5,51,Bachelor's Degree,12.0,Java,Yes,53452.9960134766,Junior,Urban,Not Suitable
+86ea50eb-e5d7-447b-8d61-cb6a80f98ff6,33,Bachelor's Degree,1.0,JavaScript,Yes,57740.19967560537,Junior,Suburban,Not Suitable
+46d96caa-a8da-49df-81a9-1591fa3350d0,26,High School,10.0,C++,No,,Junior,Urban,Suitable
+61b3d35c-01f2-43df-bbbd-c2bfe6877551,19,High School,17.0,Excel,Yes,,Lead,Rural,Suitable
+6288b333-81c0-493c-860f-d53329041a82,20,Master's Degree,28.0,Excel,No,138476.23268989846,Senior,Suburban,Suitable
+6c2c3164-1848-4b4f-85ad-e3310171a956,28,,27.0,Communication,Yes,46646.059246947276,Senior,Suburban,Suitable
+fb2917e7-01c4-46cb-9a71-e99395c0d600,42,Master's Degree,18.0,JavaScript,No,111762.25242682794,Senior,Suburban,Suitable
+b0a76c35-1ebb-4714-af3a-7db69a359ec3,32,Associate Degree,9.0,Excel,No,103481.49594466624,Senior,Urban,Suitable
+5ebf0868-37ec-419f-9088-b2c7f5024ba1,28,Associate Degree,0.0,SQL,No,56905.48376954825,Lead,Urban,Not Suitable
+df2fae68-267c-4ed0-a535-99d6bd2c6159,58,Associate Degree,22.0,Excel,No,64473.18088022453,Lead,Urban,Suitable
+03cd6154-ecf2-4b69-ae9e-f7b9b30ab8c0,55,Bachelor's Degree,28.0,Java,Yes,93700.62346938104,Lead,Suburban,Not Suitable
+192e21e2-2bdb-4c23-8250-9c73f640cdb3,55,Associate Degree,9.0,SQL,No,83247.65062699534,Junior,Urban,Suitable
+c3c6ec42-8467-4914-905b-a04d34ecd192,41,Associate Degree,4.0,Communication,No,72982.53809915914,Lead,Rural,Suitable
+1bdfeb4a-61a2-4d68-974c-8a540717cac7,57,Bachelor's Degree,15.0,Excel,No,80490.39039084771,Mid,Suburban,Not Suitable
+38e6925e-06f5-401c-a056-5b8b5842fca1,18,Associate Degree,18.0,Java,No,102072.33219890062,Senior,Rural,Suitable
+1ca7dffe-7750-4190-813d-f9a00230296a,27,Associate Degree,,JavaScript,No,30481.07911925842,Lead,Suburban,Suitable
+6319d7a9-2135-4d91-9d98-8467d164e253,45,Bachelor's Degree,9.0,Java,No,116792.33336134924,Mid,Suburban,Not Suitable
+5a437ab3-9fc7-407a-9c73-346c9565adaf,25,,13.0,Python,No,61470.841343449414,Mid,Rural,Suitable
+761ff5ff-1270-4f82-847e-4b217e0e0290,44,Bachelor's Degree,,Communication,Yes,140996.31819473376,Mid,Suburban,Not Suitable
+0139f0c4-15cc-4b23-923b-09d85427271a,40,Master's Degree,15.0,Python,No,139389.86422088748,Mid,Suburban,Suitable
+dbd0651b-3cd9-4009-808b-1221215ebfcf,48,High School,23.0,SQL,Yes,38678.510814819594,Junior,Urban,Not Suitable
+90025a29-e5cf-443d-8b2b-575585e8b7f6,45,Master's Degree,25.0,Python,No,81766.76489196184,Junior,Suburban,Suitable
+d2be1083-ae5f-4937-9c92-2069da62eb56,20,,2.0,Java,Yes,83459.64796857125,Senior,Urban,Not Suitable
+a56c50e2-1ac0-4378-a0bd-df2c3b16bced,57,High School,15.0,Python,No,90369.85665095158,Mid,Suburban,Suitable
+c9444319-d78b-4ce0-90bf-16dfd14a068a,26,Bachelor's Degree,0.0,Excel,Yes,39521.775890441364,Mid,Suburban,Not Suitable
+2631d02c-c0ac-4812-815a-1e9d9d451699,20,Bachelor's Degree,5.0,Communication,Yes,92522.33711931614,Lead,Rural,Suitable
+09b55379-9eaf-438c-9f53-6134c6e87c1e,20,High School,2.0,JavaScript,Yes,92593.08065077709,Lead,Urban,Not Suitable
+027eb687-a42e-419c-a00d-c3c5e947816d,40,Bachelor's Degree,27.0,JavaScript,Yes,126871.68255130012,Junior,Urban,Suitable
+728e4868-2d18-414a-861e-4400925f703b,54,Bachelor's Degree,14.0,JavaScript,No,131656.3737775595,Lead,Suburban,Suitable
+b12f686f-31c7-4dfe-ab2c-82a55c796f02,53,Associate Degree,6.0,JavaScript,No,41417.32604597559,Senior,Suburban,Not Suitable
+3c49afd2-9580-4fdc-9c25-6ea1118a2f5e,21,,22.0,SQL,Yes,92699.5223320356,Junior,Suburban,Suitable
+880a95a3-982e-4944-8417-b809b553475b,45,Master's Degree,28.0,Communication,No,58160.3188508811,Junior,Urban,Suitable
+c3f0dc77-7cbc-42eb-9191-19287766796a,27,,5.0,Python,Yes,70074.02804963713,Lead,Suburban,Suitable
+1678dfaa-9beb-4953-8a5a-801b126643cd,35,,29.0,C++,No,107447.32772851131,Senior,Rural,Suitable
+215f005e-0521-400d-9aa0-2ff39950afa0,23,Bachelor's Degree,9.0,SQL,No,45686.360245816395,Junior,Suburban,Not Suitable
+586d0187-2d19-49a4-b72b-b7aaaa642f1c,57,High School,17.0,Communication,Yes,136607.28787157766,Senior,Urban,Not Suitable
+f2136f7e-8696-4b96-8734-0f853c593c57,20,Bachelor's Degree,20.0,C++,Yes,,Senior,Rural,Suitable
+f6f39937-4dc1-4bcf-860a-8a9e2db39550,40,Bachelor's Degree,2.0,SQL,No,,Lead,Rural,Not Suitable
+70a67b0f-d92b-47d7-b47b-53c5e4583ef7,57,Master's Degree,12.0,Communication,No,62145.6346583695,Mid,Rural,Suitable
+fd66365f-6fe1-4d88-88d4-aec9de8c7c28,50,,3.0,C++,Yes,50538.4393058131,Mid,Urban,Not Suitable
+92b4c409-9abe-49e3-83e5-a522f073c1fe,42,Associate Degree,25.0,Communication,No,78737.66506591329,Lead,Suburban,Suitable
+4be98216-31e8-4097-b8bd-dcee40efa80a,45,Master's Degree,2.0,JavaScript,Yes,40600.43571392319,Mid,Suburban,Not Suitable
+fbd6ba2a-1b2b-427d-ba94-d8404288a760,28,,15.0,Python,Yes,42483.62521665496,Mid,Urban,Suitable
+d6f1672a-2d64-430e-871b-39a9ba14a4d5,20,Master's Degree,28.0,Java,No,59324.571480759114,Mid,Urban,Not Suitable
+e5185646-919d-470b-a5f1-b4c5251efa85,38,Associate Degree,10.0,Communication,Yes,63902.758742391794,Lead,Rural,Suitable
+dcde47df-d1b2-4f49-ae78-9957809e5311,32,,,Java,Yes,145648.93644381448,Mid,Rural,Suitable
+3cb790df-8cc3-41f1-932f-e30e5abd681a,53,,17.0,SQL,Yes,,Senior,Rural,Suitable
+464ef6b2-b77f-40e8-b9ce-f9b868c42c65,21,High School,6.0,C++,Yes,115600.83465815282,Senior,Suburban,Suitable
+f9da548c-ae6a-4689-b3f8-7400beb60806,59,Master's Degree,,Python,No,149931.80523949992,Junior,Suburban,Suitable
+e1328f64-ae27-4676-9d59-f2ee0839e8d3,46,Bachelor's Degree,4.0,Java,Yes,99622.96740659377,Senior,Urban,Suitable
+0a6be20c-e08f-4043-b3bd-b95221142084,23,Associate Degree,,Python,No,87479.25661955637,Senior,Urban,Not Suitable
+15f0b6b6-895f-49a4-ad24-778a45d6bb00,41,Master's Degree,17.0,Excel,Yes,139974.76979702828,Mid,Suburban,Not Suitable
+d4e05d57-21e4-4b4f-b5f7-0ba026995605,45,Associate Degree,27.0,Java,No,,Lead,Suburban,Not Suitable
+4e935552-3ddb-495a-a6a0-0e6279f3f82b,34,Master's Degree,21.0,Python,Yes,55436.16451673691,Senior,Suburban,Not Suitable
+5c2e8029-068e-4053-9584-d9e144642203,50,Bachelor's Degree,27.0,Java,Yes,88143.3547804818,Junior,Rural,Suitable
+af181571-165b-469d-815d-723733ebfef8,40,Master's Degree,6.0,C++,Yes,65533.8344499862,Mid,Suburban,Not Suitable
+4827707e-a919-4018-931c-cc90820a35a9,22,Master's Degree,2.0,Communication,No,136117.55006330166,Junior,Suburban,Not Suitable
+501c3e9c-14f6-4375-900f-2897ff24baee,37,High School,14.0,Communication,No,77827.49119534102,Junior,Suburban,Suitable
+bea55401-d561-46ba-8717-ab93b265c40d,51,Associate Degree,28.0,Java,Yes,30672.92974730378,Senior,Suburban,Suitable
+cfaf7d19-a7e7-4474-ab4b-5afd49fb2fd4,35,Associate Degree,18.0,JavaScript,No,137216.44073868258,Junior,Rural,Not Suitable
+47fa79b2-7a5c-46a7-b2eb-9eae217d6dac,55,Associate Degree,9.0,Java,No,33474.78297085906,Junior,Suburban,Not Suitable
+aaa02362-7a82-4370-b4f4-549a6acdc39b,18,Associate Degree,20.0,Excel,No,,Lead,Rural,Suitable
+4d00bae4-6b6f-455c-b2ba-a4474b706cbd,36,Associate Degree,29.0,JavaScript,Yes,33811.979440361865,Junior,Suburban,Suitable
+17530346-444d-4edb-a6cb-c3cf23080a17,28,,26.0,C++,Yes,126226.47229472625,Lead,Suburban,Not Suitable
+cdaff651-d95b-4c2a-9d1d-f99757e585c8,34,Associate Degree,,SQL,Yes,95705.78338131245,Lead,Urban,Suitable
+66c4da72-e448-4f01-a37a-85ea704ae143,58,Bachelor's Degree,29.0,Communication,No,50146.62647003747,Mid,Rural,Not Suitable
+43a4550a-b325-42cf-a874-825c5b1febcc,40,High School,13.0,SQL,Yes,85193.9203310542,Mid,Rural,Not Suitable
+67810fe7-19e2-4375-9655-d4e377563517,19,Bachelor's Degree,5.0,Communication,No,133945.3352816337,Mid,Urban,Not Suitable
+48198537-2f80-445c-988c-b52657848f30,47,High School,1.0,Python,No,88773.49151792726,Junior,Rural,Suitable
+d1eca70c-1faf-4ec8-be87-d8a6c5ad239f,38,Master's Degree,26.0,Java,Yes,76070.92272782924,Junior,Urban,Suitable
+bb30bef3-f30d-43dd-8cae-9c7464690a87,42,Bachelor's Degree,1.0,Excel,No,147639.08543478354,Mid,Rural,Suitable
+41eae9d2-e0e4-4efb-b89f-cf376fc065d2,54,,5.0,Java,Yes,104163.049242394,Junior,Rural,Not Suitable
+4657489b-7653-46bf-a921-64f7a7a10fcd,54,Associate Degree,10.0,JavaScript,No,67371.82124376742,Junior,Suburban,Suitable
+dd0ff7a9-70c9-47b1-847b-11dd84208e3d,30,Associate Degree,20.0,Excel,No,,Senior,Suburban,Not Suitable
+634ee3fb-988b-4ad9-b47d-4a0721ed9b58,54,Master's Degree,22.0,JavaScript,Yes,119037.29815725626,Lead,Rural,Suitable
+59b5df1f-ff3d-4389-9653-6ed134100a62,43,High School,17.0,Python,No,133204.19632918603,Lead,Urban,Suitable
+65a766da-5166-4f57-a9c8-09934f9f54d1,19,High School,19.0,C++,Yes,126355.57641547237,Mid,Rural,Not Suitable
+c12f3625-2a5c-410e-9abe-dee89fb6453e,40,Associate Degree,8.0,Excel,No,47949.0716604077,Junior,Rural,Suitable
+f46813c0-6bb2-4035-87df-235db232f49f,28,Bachelor's Degree,28.0,SQL,Yes,96828.6634036363,Mid,Rural,Not Suitable
+ef0de7d6-3158-45dc-8b54-abf7c5284dca,19,Associate Degree,22.0,JavaScript,No,93873.72116793209,Mid,Urban,Not Suitable
+2e8ccde5-243e-4361-9c36-c43b03aff2b2,23,Associate Degree,1.0,C++,Yes,41386.3819215331,Mid,Rural,Not Suitable
+32430f2d-adeb-46cc-8816-c5e899b9332c,27,Bachelor's Degree,22.0,SQL,Yes,59468.63847113786,Lead,Rural,Not Suitable
+896b55ad-2849-4254-b5c0-05ce769781ca,25,Bachelor's Degree,,Communication,Yes,33097.052918554335,Mid,Urban,Not Suitable
+bace3044-4111-4d53-8740-73cb581586bf,30,Master's Degree,12.0,SQL,Yes,104300.0183771489,Senior,Rural,Suitable
+432c696d-53a6-4d37-848d-925ef971fe39,22,,,Java,Yes,67337.67682545267,Lead,Rural,Not Suitable
+f307e22c-57a4-4a84-af8d-88be192c4026,40,Master's Degree,26.0,SQL,No,64850.81068805013,Lead,Suburban,Suitable
+c63a73b7-db2c-4183-9d0c-d4d99b8f3107,39,Bachelor's Degree,23.0,Excel,Yes,33454.431403808085,Mid,Suburban,Suitable
+79d7bea6-118b-4856-8a22-913224297d6b,47,Associate Degree,20.0,C++,Yes,,Lead,Urban,Not Suitable
+8243d2a2-0da4-4bbb-b200-ffe6c3d406f0,55,Bachelor's Degree,29.0,Communication,Yes,74464.56415121077,Senior,Urban,Not Suitable
+5502199d-5491-4674-8ae3-ec6973f6242b,51,Bachelor's Degree,0.0,SQL,Yes,140034.55626127156,Senior,Suburban,Suitable
+bfa33f50-2143-4bf6-892b-5416bee616df,21,,19.0,JavaScript,Yes,131213.51945152352,Lead,Rural,Suitable
+280dfbdd-427c-438e-848d-edc33d8e8122,27,High School,29.0,C++,Yes,49046.595565779324,Mid,Suburban,Not Suitable
+482df072-75fd-46c6-8267-4b62fde06832,42,Associate Degree,25.0,SQL,No,103113.6192633117,Mid,Rural,Suitable
+1cdea155-8de0-4ac6-ac5c-28b45f9280e1,27,,,Python,Yes,101740.7741248226,Lead,Rural,Suitable
+70593186-53a1-4f22-86f1-2aab61851900,51,Master's Degree,11.0,Python,No,70682.15732515726,Lead,Rural,Suitable
+556e1684-02b6-4181-b660-8e9d91a9cc7e,57,Master's Degree,,C++,No,46401.00812623007,Senior,Rural,Not Suitable
+999bce97-38fd-489f-87d3-f419e204705f,34,Associate Degree,18.0,JavaScript,No,80979.76203676692,Mid,Urban,Not Suitable
+0ebb6305-ca11-4c9d-b175-877dbb68e7c2,46,Master's Degree,28.0,Excel,No,,Junior,Urban,Not Suitable
+624e7064-9562-47ea-b30b-23c21d80e3ea,43,,4.0,SQL,No,101788.76624698355,Junior,Urban,Suitable
+7197f733-1114-4146-b4e4-c83e593cef03,18,High School,,JavaScript,Yes,44551.05226101777,Mid,Suburban,Suitable
+580025f4-6d16-469f-9786-62849a1e64a4,54,,1.0,Communication,No,97823.18556862576,Lead,Rural,Suitable
+02ba9dd1-3818-432d-a701-01a6b7670c59,25,Master's Degree,26.0,Java,No,144033.15999904292,Senior,Urban,Not Suitable
+cd53a1e5-3c03-47be-9a88-e5a60c1969fa,42,Master's Degree,9.0,Communication,Yes,54203.49251099792,Junior,Suburban,Suitable
+9e4a27cb-3a5e-4fca-9df4-67d0ec111650,25,High School,29.0,C++,No,91943.90582867088,Mid,Suburban,Not Suitable
+a7817bb7-ec2e-4f46-9111-a64003f77103,31,Master's Degree,18.0,Java,No,142621.575979045,Senior,Rural,Suitable
+5ba05ced-07e1-41b5-a792-cc08ad1022a6,32,Bachelor's Degree,8.0,C++,No,135342.17680140166,Lead,Suburban,Not Suitable
+ca9c0fac-1c36-415c-ad83-408ef32aff9d,36,High School,20.0,C++,Yes,,Senior,Rural,Suitable
+bce17f6f-caca-45ac-b1be-ca9864f07c78,58,High School,0.0,Communication,Yes,42238.66937470838,Junior,Rural,Not Suitable
+7df3029b-3d49-4c80-8443-0910d940d20e,48,High School,2.0,SQL,No,34663.847776865536,Senior,Suburban,Not Suitable
+dad68b7a-bbc1-4594-ba80-b16c5b4d8c9d,29,Associate Degree,23.0,JavaScript,Yes,143677.27373660932,Lead,Suburban,Suitable
+2cdb6da0-2afe-44fe-852b-07aaa19bd80f,37,Master's Degree,,JavaScript,No,57548.22203532177,Senior,Suburban,Suitable
+857958ee-ddba-4b75-a490-28e3abb23302,38,Master's Degree,,JavaScript,No,60486.57729594849,Junior,Rural,Not Suitable
+00fb0fcb-96fc-44d7-b954-bea10a08b7b8,30,Bachelor's Degree,,Communication,Yes,46925.30011529608,Senior,Suburban,Not Suitable
+8d00a57a-3afa-409e-be06-988ae5282cdd,57,High School,,Java,Yes,147838.8258488019,Senior,Suburban,Suitable
+259571cb-877e-4271-9b85-c0dafa2fb367,48,,11.0,Python,Yes,119524.25564505004,Junior,Suburban,Not Suitable
+89ba6144-453c-4d24-aa7c-dbbf29401451,25,High School,8.0,JavaScript,Yes,111244.01437382957,Senior,Rural,Suitable
+ad5b325e-54ae-4a66-aed4-c88caf91d13e,34,Associate Degree,29.0,Communication,No,130435.88794532951,Junior,Rural,Suitable
+47ea030c-c5b4-4b81-b412-a8b746af5e44,43,Associate Degree,6.0,Excel,Yes,107056.59892228397,Junior,Urban,Not Suitable
+66700835-ff27-4b72-ad2b-68397c40c7c0,28,High School,,SQL,Yes,85936.09626466042,Senior,Suburban,Not Suitable
+b4769a9f-43f5-4cb7-ad2b-1b7682f95b77,59,High School,25.0,C++,Yes,60437.473943356425,Junior,Urban,Not Suitable
+65630669-ad2b-44e2-8db5-cd0eca9f5064,25,High School,12.0,Excel,No,116126.20878379107,Mid,Urban,Not Suitable
+58be2971-2f1c-4f68-9b48-c7c40e15bd3c,21,High School,,Python,No,140863.28544927365,Lead,Rural,Not Suitable
+b074fbd9-3f46-46e9-bd8b-7a5fca081585,48,High School,23.0,JavaScript,Yes,42908.59774179489,Lead,Rural,Not Suitable
+9aefba74-43be-470b-8dca-011208240044,46,Associate Degree,10.0,Communication,No,30377.365471787693,Lead,Urban,Suitable
+fdfe0153-be4d-4419-b72b-15c59aa7bd1e,21,Associate Degree,1.0,Python,No,62309.77164356324,Mid,Suburban,Suitable
+c72eac41-2f7a-49ff-a961-943bc46e35f0,50,High School,0.0,Python,Yes,57740.954793402096,Mid,Suburban,Suitable
+7cfde52f-88a2-49c5-aea1-ed6872c71374,32,,,Communication,Yes,50165.58346190197,Lead,Suburban,Not Suitable
+c47e3a81-f813-41af-9a0d-355f6e171655,40,Master's Degree,6.0,SQL,No,60713.569842198674,Junior,Rural,Not Suitable
+b916cf10-bd26-4f4d-bb2d-bbe75530c702,24,Associate Degree,1.0,C++,Yes,35510.97266701739,Senior,Rural,Not Suitable
+44bfeed7-fa26-44d5-bbf8-9d9d3eb861e5,18,Master's Degree,12.0,Communication,No,132380.24582887598,Junior,Suburban,Not Suitable
+4f003fbc-1c53-4937-83cf-5e9d35b7cbeb,22,Bachelor's Degree,8.0,Python,Yes,105690.49059108202,Senior,Suburban,Not Suitable
+11e44899-366d-40ed-86b9-a6bffa0e82f2,40,High School,23.0,Java,No,77095.52107849607,Lead,Suburban,Not Suitable
+e3bb48e4-a2b7-4a1f-8338-9db5d10932e0,24,,11.0,JavaScript,Yes,100089.86968362774,Senior,Suburban,Suitable
+630178c4-1901-485d-b452-25f8ef9d65e1,59,Master's Degree,2.0,C++,No,31497.609304565445,Junior,Rural,Suitable
+dc1eec66-fdf4-401b-9e29-f6c2d3c0cb9e,51,Associate Degree,5.0,SQL,No,32146.30295109901,Senior,Rural,Not Suitable
+264e70b8-2a22-46b7-b9dc-f7f9a0bcb00a,24,Associate Degree,1.0,Excel,Yes,59052.811919829874,Lead,Suburban,Suitable
+d0144b85-179c-4979-912c-fc11279901fb,59,High School,1.0,Python,Yes,140891.85177763578,Mid,Suburban,Not Suitable
+0f3733c5-846a-4b74-9b78-5c01d432f874,22,Bachelor's Degree,17.0,Excel,Yes,120400.53782267144,Mid,Rural,Suitable
+e457a60b-52a7-4aad-b3df-39c5d828bd84,31,High School,5.0,Communication,No,120318.56070085596,Mid,Rural,Not Suitable
+8b00373e-9ccb-4f5b-8db9-1c6e30ed9918,21,Bachelor's Degree,1.0,C++,Yes,81416.89348336111,Lead,Suburban,Suitable
+da7b12b9-2e2e-43c9-b30a-d3c5da6c623a,18,,1.0,Python,Yes,136440.43860266602,Senior,Urban,Not Suitable
+3052fec4-f03a-443c-94ad-649cc90a9045,23,Bachelor's Degree,12.0,SQL,Yes,76909.86675909138,Junior,Suburban,Not Suitable
+4cc97ea5-a29a-496c-81a4-043f110321dd,30,High School,13.0,Java,Yes,116422.95291916371,Mid,Rural,Not Suitable
+7a8a4504-094d-4449-b394-068e173b9fba,29,Associate Degree,12.0,SQL,No,103314.22971428292,Lead,Urban,Not Suitable
+44f22cda-daf6-4a5d-9084-035cacf0b5ad,57,Associate Degree,0.0,Excel,No,109715.00438667327,Lead,Suburban,Not Suitable
+402c12e4-d3bf-44e5-9dc1-42fbcb5f4c09,52,High School,4.0,Java,No,72011.28541022784,Lead,Rural,Not Suitable
+75e479a9-0be9-4746-828a-cac6f3f3053d,19,High School,11.0,Excel,No,79445.07439941427,Lead,Urban,Not Suitable
+9b80f8a3-b31f-4d55-a12f-1b7870fc6cea,56,High School,12.0,C++,Yes,61108.18547451464,Mid,Suburban,Not Suitable
+8e9022ad-2142-425e-81d6-e8cbaea3ac61,57,Bachelor's Degree,3.0,Java,No,85172.2789375877,Senior,Urban,Suitable
+efb5a9a6-4c64-4984-88fb-b22746879d0a,49,,6.0,Communication,Yes,31222.148760504926,Junior,Rural,Not Suitable
+b09f2853-7116-48c2-b92e-79337339b9cb,20,Bachelor's Degree,0.0,Communication,No,137691.29755122017,Lead,Suburban,Not Suitable
+6b204e93-5d94-4c02-8857-644e7ac53245,23,Bachelor's Degree,16.0,Python,No,148076.72533971327,Lead,Suburban,Suitable
+da0f1145-5b2e-4314-895f-215831fcfec3,22,Master's Degree,16.0,Excel,Yes,52663.19604957539,Lead,Suburban,Not Suitable
+36eeec26-8fe7-4f24-a2f1-c8a17a21a6c4,57,Bachelor's Degree,17.0,Excel,No,,Mid,Rural,Not Suitable
+a7cdae38-99d2-442f-bacc-09d4141b5db8,24,Master's Degree,9.0,Excel,No,49098.81911115472,Lead,Urban,Not Suitable
+eb5e1a72-5080-4435-b032-7b2e8a262dd8,46,,,Excel,Yes,82639.01188658873,Senior,Suburban,Suitable
+82e71037-017e-49f5-ad07-a51ade5575a4,57,,15.0,Excel,Yes,84511.30427985488,Lead,Suburban,Not Suitable
+227e5e78-3df1-4060-b02e-0ed650488bee,22,Bachelor's Degree,15.0,C++,No,121783.46663187272,Lead,Rural,Not Suitable
+f7f4cd79-8fc1-4501-b74a-5c04b0b9ea75,26,High School,16.0,Java,Yes,92901.8093221217,Mid,Suburban,Not Suitable
+e7fb0c0b-b2a3-42c8-a88d-0ec5a5fffd1a,53,Bachelor's Degree,13.0,Excel,Yes,85227.99136113134,Mid,Suburban,Suitable
+3f2dea30-a897-4ebd-90ad-38d00fe87846,49,Bachelor's Degree,18.0,Communication,Yes,91604.37877094914,Lead,Suburban,Suitable
+7b53e7c7-50c4-4a91-a082-22ca8bb34545,24,High School,4.0,SQL,Yes,84495.12294250695,Junior,Rural,Not Suitable
+47c4ca48-0a2f-4558-994f-01c370568af7,51,Bachelor's Degree,15.0,Communication,Yes,34867.144709159926,Senior,Rural,Not Suitable
+5ac950c6-805a-4813-ae10-94410d8257b2,22,High School,,SQL,No,93637.2111871478,Senior,Rural,Not Suitable
+ad1f39d9-15ca-4e4f-831f-f0eba3f39c39,38,Associate Degree,2.0,Python,Yes,,Senior,Suburban,Not Suitable
+c620e147-da31-4a33-801e-91b2ec95d7a8,37,Associate Degree,25.0,JavaScript,No,148343.6242801812,Mid,Urban,Not Suitable
+56d3b50c-18de-47a2-891d-24496eaf32a1,53,Associate Degree,22.0,C++,No,99156.84081552796,Senior,Rural,Not Suitable
+62de674d-5ce4-4a3b-8701-24e2a7407083,18,,9.0,SQL,Yes,85507.62792242909,Senior,Rural,Suitable
+c3eef589-3644-46b8-baa5-cabd5f41d8fa,42,,23.0,JavaScript,Yes,77930.77267929763,Senior,Rural,Not Suitable
+549779aa-728b-48c9-98bd-fdc7b6b99359,43,High School,,Excel,Yes,37562.381350150026,Senior,Suburban,Suitable
+c844d28e-b71f-4947-b227-d77078c0dd74,25,,,Java,No,48816.322631445044,Junior,Rural,Not Suitable
+3d15af88-998e-422f-bfcd-f37facd7b570,45,Master's Degree,0.0,Communication,Yes,115069.01976890315,Senior,Suburban,Suitable
+97e3f390-005d-4d4a-9324-7205f01f19ae,35,Associate Degree,11.0,SQL,No,140917.83582239153,Senior,Rural,Not Suitable
+df76127b-f52f-4fdb-9102-4d41e0fecbf7,30,Bachelor's Degree,18.0,Python,No,44336.7299042229,Junior,Rural,Not Suitable
+6510a914-d5cc-4af0-a6d3-b3573dfa8252,54,,17.0,Python,Yes,143581.56348034047,Mid,Rural,Suitable
+bcc26b35-d133-4869-bbff-616cb36659c8,45,High School,10.0,C++,Yes,,Lead,Suburban,Not Suitable
+c97a3adb-1e70-4560-8d41-100cd329787e,43,Master's Degree,29.0,SQL,No,66157.05249515918,Mid,Rural,Suitable
+a7705d4b-31e8-441f-b41f-3588e7d52899,50,,29.0,Communication,Yes,48057.382597924014,Lead,Suburban,Suitable
+9b2b50d9-7960-4a10-a59b-d499a40f67ba,21,High School,24.0,C++,No,122575.93667712044,Junior,Suburban,Not Suitable
+a33d07ee-9ffc-40a7-9f1e-0c1b2a2a21bf,29,,2.0,Excel,Yes,66183.82996535965,Mid,Rural,Not Suitable
+f2354fde-62c2-4992-a316-5669e2be6afe,25,Bachelor's Degree,2.0,JavaScript,Yes,89254.44743821747,Mid,Urban,Suitable
+e8a6a459-4be4-4805-8f35-f81b51640bf3,24,Associate Degree,20.0,Communication,No,123608.28851079333,Junior,Rural,Suitable
+7dc3802b-36e9-4dba-8b5b-4e6df060290b,50,High School,4.0,C++,Yes,133301.68400559184,Lead,Rural,Suitable
+319982e0-5df1-4729-a4d5-b61ab2ec4618,55,High School,15.0,Java,No,33786.193342151935,Junior,Urban,Suitable
+f51b5606-35c9-4c49-803b-36ea14f34de3,52,Associate Degree,,Python,Yes,53645.80195965941,Junior,Suburban,Suitable
+a26dcb07-7018-4641-bbb3-0aa65d4f0a81,58,Master's Degree,18.0,SQL,Yes,84098.66034039654,Mid,Urban,Not Suitable
+dd4ab05a-1c8b-48ba-a4f1-8b3e12c84b05,36,Master's Degree,21.0,JavaScript,Yes,,Junior,Rural,Not Suitable
+e6de6e16-7185-438d-b997-ae213ef0211d,37,Bachelor's Degree,5.0,Java,Yes,62866.32072705546,Mid,Rural,Suitable
+0930a70d-6c4e-4176-bc20-2d9cb0ed99c5,42,,1.0,Python,No,71245.88004028605,Lead,Suburban,Not Suitable
+b4bd9f9a-a9b8-4a7e-9bf0-1bda7b0306f4,40,Master's Degree,16.0,JavaScript,No,44587.72622176123,Senior,Rural,Suitable
+dd4c5ef6-1eab-46a3-891f-78f1df547f54,27,Associate Degree,,SQL,No,147314.71783880217,Junior,Urban,Suitable
+8a805365-d21d-4128-81b7-e3b31281dd91,33,Bachelor's Degree,22.0,Python,No,50234.0810447001,Mid,Urban,Suitable
+0d781c14-ca3c-4b90-a5b7-6c8b41d31b97,48,High School,12.0,Communication,No,,Mid,Suburban,Suitable
+f0a17fa9-9c32-4f40-a70b-c4c32e192e1b,55,,15.0,SQL,No,44965.42241910392,Senior,Urban,Suitable
+ee830062-c8bd-4834-9b5a-01363dbbf61c,22,Bachelor's Degree,11.0,JavaScript,Yes,,Mid,Suburban,Suitable
+8781e7fb-ae2f-4196-89e4-7e0ca635aa88,41,Master's Degree,19.0,Communication,Yes,101782.35022181035,Junior,Rural,Suitable
+d83247bc-73c4-4514-9eb8-e42814987942,53,Master's Degree,22.0,Excel,Yes,91020.5762321518,Lead,Suburban,Suitable
+6681458f-b496-4874-b2f1-8bc804443f36,25,Master's Degree,20.0,Java,No,147715.77774027013,Senior,Suburban,Suitable
+78b8bfd2-f9eb-4e4c-b352-8b7d62fe233a,28,,5.0,JavaScript,Yes,78257.87123294937,Mid,Suburban,Not Suitable
+5ee351e4-37d4-4ca9-8af0-1fd4a6f2901d,47,,6.0,JavaScript,Yes,67663.13603926427,Mid,Rural,Suitable
+d56adfd0-4d8b-4a0d-af82-dd4c876aa92d,46,Master's Degree,19.0,Excel,Yes,89784.18189276202,Mid,Urban,Suitable
+d0a12da5-b83d-439d-8b8c-dad138278519,58,Bachelor's Degree,8.0,Communication,Yes,146787.21370987722,Senior,Urban,Not Suitable
+6c03f9a2-24a9-48bc-b3d9-a895d9cff95a,39,Bachelor's Degree,26.0,Python,No,,Senior,Suburban,Not Suitable
+d5471e91-bf63-40d8-9636-d623ba2a1282,47,Bachelor's Degree,,SQL,Yes,31814.87293819498,Senior,Suburban,Not Suitable
+903f96a1-cf14-4132-ab4b-6c407423e28d,37,Bachelor's Degree,7.0,Java,No,51742.51462763906,Lead,Urban,Suitable
+bcb872ec-93a1-4675-ad19-2f3e947e537d,31,Bachelor's Degree,4.0,SQL,No,56636.853931828526,Lead,Suburban,Suitable
+fff227ca-724d-4b13-8a1e-0163c3281f4d,43,,3.0,JavaScript,No,39620.25682286859,Lead,Rural,Suitable
+f06c22b7-dd37-4a5c-8147-f5efd7599946,57,High School,,Java,No,33465.32400870648,Junior,Suburban,Suitable
+cbe006af-7d84-4384-90ac-4e1ecc963e19,19,Associate Degree,,JavaScript,No,,Lead,Suburban,Suitable
+9ac016b8-0b3c-4ebb-a4dd-8bb75de8a259,50,Associate Degree,15.0,Excel,Yes,,Mid,Suburban,Not Suitable
+bb815a96-7b11-4c48-8383-dd8c8431a751,22,Associate Degree,19.0,Java,Yes,,Junior,Urban,Not Suitable
+d2648cd4-97b1-45f5-bd3f-3c5169e54167,45,High School,12.0,Java,Yes,47209.34643282021,Junior,Suburban,Not Suitable
+bc299321-201f-4110-a0cc-95c04fdb3d3f,37,Associate Degree,3.0,C++,No,32020.94159911767,Senior,Urban,Not Suitable
+ade2b087-4918-460c-bd22-d08fb1bf217e,23,High School,11.0,Python,Yes,78879.18154453617,Lead,Rural,Suitable
+4429f44d-d40e-4630-b319-c2abc3dd17c8,38,Associate Degree,8.0,SQL,Yes,87069.48478210144,Senior,Suburban,Suitable
+f8a2d13d-5ec5-4ccc-ad81-aa17ad26eb48,52,High School,0.0,Python,No,147100.149933335,Mid,Urban,Suitable
+9dbcf847-4295-4076-859b-c71e51ca09d7,36,Bachelor's Degree,12.0,JavaScript,No,120449.318687156,Senior,Suburban,Not Suitable
+119eb1f7-d20f-451d-ae40-ede03ea46641,26,High School,,Communication,Yes,53838.415431702335,Junior,Suburban,Suitable
+7dff9db7-a6c0-4d71-8b90-aa47f9ca95e5,53,High School,29.0,Excel,Yes,,Junior,Suburban,Not Suitable
+f1448cdb-8e99-4fd6-afbc-b691fe121523,26,High School,16.0,Communication,Yes,52861.65322948253,Lead,Rural,Not Suitable
+42e77bdd-0aea-4ad3-bc70-372726986d0b,33,High School,6.0,Excel,Yes,49144.13518963644,Senior,Rural,Suitable
+78f06cf4-ddb2-419a-ad82-2f944b05f177,54,,17.0,Excel,No,130130.72770584807,Mid,Urban,Not Suitable
+ef61e37a-8882-48de-b357-7ba054891dbe,22,Bachelor's Degree,24.0,Excel,No,84647.34745431737,Mid,Rural,Suitable
+ea13efb6-1ddd-4845-bfa6-f5ba3dd57109,29,,20.0,Java,Yes,,Junior,Suburban,Suitable
+5a3db896-1879-4b75-a50b-469ef2e9cc13,40,High School,,Java,No,59459.10980519398,Senior,Suburban,Suitable
+9d37807d-1265-4590-8f71-9ca48298b3b8,44,Bachelor's Degree,21.0,Java,Yes,95916.26177422071,Senior,Urban,Suitable
+0672f549-f0ed-4022-94fd-e612171dfc40,59,Associate Degree,19.0,SQL,No,71734.47758932378,Mid,Rural,Not Suitable
+8b81d3be-a8ac-4b29-8e3d-54eebddc4806,18,,26.0,Communication,Yes,99803.51587448525,Mid,Suburban,Not Suitable
+9f3038bf-bded-42b1-a8e2-7e68d1bdb735,28,Bachelor's Degree,,JavaScript,No,63672.86493349381,Senior,Suburban,Suitable
+83707245-8b33-4918-8343-388ce36623fd,42,,8.0,C++,Yes,38947.057308553056,Mid,Rural,Not Suitable
+4dbbc471-816b-4068-890b-3f263fb77c29,30,High School,23.0,SQL,Yes,102690.39920364133,Lead,Suburban,Not Suitable
+e774a2d7-cb2b-4fea-84be-2446f2e6a7f1,41,Bachelor's Degree,12.0,Communication,Yes,113261.95376115668,Junior,Urban,Not Suitable
+df0e5ede-1e78-45cb-9853-4e36b9a4cd03,54,Associate Degree,7.0,Java,Yes,113626.052782193,Mid,Rural,Suitable
+ef2a626f-6124-4a7b-ae70-78ec3afd6800,19,Bachelor's Degree,18.0,C++,Yes,68497.09295050809,Mid,Rural,Not Suitable
+0fb15315-a7a5-4bda-ac20-a70859089f18,19,Master's Degree,26.0,Python,No,,Lead,Rural,Suitable
+87c612e1-3a82-43f9-bf09-e286f853e7fa,56,,17.0,Excel,Yes,33901.141968070864,Lead,Rural,Not Suitable
+022a88fa-6b02-4742-a4af-5f8d60f82ff9,51,Master's Degree,11.0,JavaScript,No,47116.81553311771,Lead,Suburban,Suitable
+23d4e0a8-b42e-478f-a55f-0667498c5679,51,,21.0,Java,Yes,108555.20237238983,Lead,Urban,Not Suitable
+70a138af-e679-449c-9c9b-3879ab3d0d8f,59,High School,26.0,Python,Yes,,Mid,Urban,Suitable
+4075a3cc-284b-47f2-b536-9e0649bf7319,22,Bachelor's Degree,26.0,Communication,No,120695.79955480687,Mid,Suburban,Suitable
+fefbb85e-7a6c-454e-85fd-78451239d216,59,Master's Degree,13.0,Java,Yes,89042.72603106097,Senior,Suburban,Not Suitable
+d1ae0e02-3b94-46da-a910-45892b577596,32,,17.0,Excel,Yes,85603.3767949767,Junior,Urban,Not Suitable
+6843029e-2863-4191-bd86-0e82c7e6f5b7,27,High School,22.0,SQL,Yes,,Mid,Urban,Not Suitable
+c00b24e1-d8f2-40d4-a756-501eecab593c,23,Associate Degree,9.0,SQL,No,91508.61598451485,Mid,Urban,Not Suitable
+f3767581-139c-4396-b919-714394ee854c,36,Master's Degree,21.0,SQL,No,58227.78840609938,Senior,Suburban,Suitable
+90bb7929-4389-43c4-be12-c849a6cff80f,41,Bachelor's Degree,8.0,JavaScript,Yes,79374.09002022831,Junior,Suburban,Not Suitable
+cf290c2b-4647-4231-99e0-c63b88f09134,39,,24.0,JavaScript,No,40436.38154266819,Mid,Urban,Suitable
+7dbe6832-9198-45e5-98b9-3aef83538412,53,Bachelor's Degree,18.0,C++,No,114415.43498683698,Lead,Urban,Suitable
+b23cd8e7-4225-4979-8de5-874a1f72153f,55,,,Communication,Yes,103279.36103029129,Lead,Suburban,Suitable
+8f5c2bf3-ac60-4aaa-9204-a188a86ec3a5,46,High School,11.0,SQL,No,99221.27374747771,Junior,Rural,Suitable
+56cfc882-9f24-43c9-8998-9f4f0bb3d2ef,24,,7.0,Communication,Yes,88423.13785691987,Junior,Urban,Not Suitable
+9c50b5fe-1246-4e35-b57f-26d2b05b2b34,45,,15.0,Communication,No,71790.63193419072,Senior,Urban,Suitable
+a91a76ae-b245-47fb-b169-75176f03394a,33,,14.0,C++,No,52191.111690143334,Junior,Urban,Suitable
+7953a7ff-d69f-4c82-88ea-48931a28609c,37,Master's Degree,14.0,Java,No,69105.77712674541,Senior,Suburban,Not Suitable
+01ccc319-c159-45c2-aae3-923058619ba5,54,,4.0,Excel,No,,Mid,Urban,Suitable
+00aa6513-8c1b-4798-b8be-c111804994f8,57,Bachelor's Degree,10.0,Excel,No,98072.31394554522,Senior,Suburban,Suitable
+f561456f-3a49-497d-a899-f1176e25a15a,47,Master's Degree,23.0,C++,Yes,,Junior,Rural,Not Suitable
+fc0c3c6d-f8c0-47c5-a1ed-df4109debc21,51,Bachelor's Degree,22.0,Communication,Yes,125335.07891452819,Lead,Urban,Not Suitable
+325fd55d-8e1b-4a5a-b4e3-e1759af9f60e,46,High School,26.0,Excel,No,77935.21704191246,Mid,Rural,Not Suitable
+4d3cea38-7ab2-4862-9b0b-dabafb854edd,59,Master's Degree,3.0,SQL,Yes,55046.47770615475,Lead,Urban,Suitable
+19d18580-2055-4a77-bd52-f67b78972589,27,Associate Degree,1.0,Communication,No,32267.620869662944,Lead,Suburban,Not Suitable
+ab999da6-ecec-4dd7-8fed-b86a2d9c934a,47,Bachelor's Degree,17.0,JavaScript,Yes,110188.62838156246,Junior,Urban,Suitable
+6fde829b-b4a4-4eae-b281-941cbb3beec1,55,,20.0,Java,Yes,44603.174104246325,Senior,Urban,Suitable
+46130ff2-2dcf-4eae-965a-b950951c5818,22,Associate Degree,,C++,No,146028.82224870598,Lead,Suburban,Not Suitable
+b853ff8f-677e-4040-a1cf-b80b78ec4785,28,Bachelor's Degree,9.0,Excel,No,113917.33698148922,Junior,Urban,Not Suitable
+2012a81a-8540-4a20-8f77-638a91f758ae,45,Bachelor's Degree,29.0,Communication,Yes,97125.65648725964,Senior,Urban,Not Suitable
+2d1bf86c-5440-43d3-b846-984ca66fcd22,27,Master's Degree,7.0,Communication,No,30331.244385545036,Mid,Suburban,Suitable
+05854c62-7a84-4f46-8f22-bb89e5aab525,43,,17.0,C++,No,79307.40814329498,Mid,Rural,Not Suitable
+4b22730a-79b6-4c9a-9078-a1fa66887fc6,23,,10.0,JavaScript,Yes,100508.74186776276,Lead,Suburban,Not Suitable
+b5339fab-3bc5-4d47-b2d8-22b105a06a97,58,High School,6.0,JavaScript,Yes,117972.84016833201,Lead,Suburban,Suitable
+fef0e28a-3243-42b8-b86e-ca06701bf155,49,Master's Degree,6.0,Excel,No,88654.07653806607,Senior,Rural,Suitable
+7aa01744-b12c-4019-b5c2-b8b61d8024d4,54,Associate Degree,15.0,Communication,Yes,45079.25194177228,Mid,Urban,Suitable
+e1f90ea5-5a85-4530-9301-395b34c7999a,46,High School,22.0,JavaScript,No,85257.04907403362,Mid,Rural,Not Suitable
+e715dd0c-32bc-477c-a14c-7cf64556d134,21,Associate Degree,6.0,JavaScript,No,36068.37361165452,Lead,Rural,Not Suitable
+0c844512-7911-4e09-bb78-19dd528ef2e3,53,Bachelor's Degree,9.0,JavaScript,Yes,61513.40568037053,Mid,Urban,Suitable
+dcadbc2d-4814-4b8c-9078-6e7a1088399f,57,Master's Degree,7.0,Communication,No,123352.42205562342,Mid,Urban,Suitable
+800b42fa-0efc-45a4-b886-cd85ff0c4d4c,51,,,Python,No,38345.13556386948,Lead,Urban,Suitable
+7acf5a0f-37e8-49f8-9f1d-fc396336e0b4,47,Master's Degree,,Python,No,97268.41433001471,Junior,Urban,Suitable
+6215f536-5fc3-4fda-af8f-b589d6553bf6,36,Master's Degree,12.0,JavaScript,Yes,106140.06655587023,Senior,Urban,Suitable
+3cde2419-abd5-4df0-aa7b-1fdbbdadbc67,29,Bachelor's Degree,28.0,SQL,No,136937.41020252375,Mid,Urban,Suitable
+66a126fd-0b67-41fd-9936-a17360e87fae,38,Associate Degree,6.0,C++,No,126281.16545253595,Lead,Rural,Suitable
+97506068-8878-4242-814c-0c68965668f1,41,,18.0,Python,Yes,107177.91660380809,Junior,Urban,Not Suitable
+daa03dc7-e977-4465-8610-697284bea07e,31,Master's Degree,8.0,Python,No,47460.49549440936,Mid,Suburban,Not Suitable
+083d1dd9-fb2d-4f18-8ab1-9ce99159fedc,27,Bachelor's Degree,3.0,Java,No,84247.94008643643,Senior,Urban,Not Suitable
+d8a3b297-5a30-4771-b5be-056fb182f897,57,Bachelor's Degree,28.0,Communication,No,112314.72727421611,Senior,Rural,Not Suitable
+86eb2d14-dce9-4bb5-afd6-cb58ad667678,31,High School,18.0,Python,Yes,132151.10649601987,Senior,Suburban,Suitable
+860e303f-9a60-4a76-b26f-d5d741779eb6,20,,6.0,C++,Yes,,Junior,Suburban,Suitable
+b48dc8f3-21f4-445b-a41a-d20f9cfc78da,43,Master's Degree,,JavaScript,No,33169.77542680572,Mid,Urban,Not Suitable
+a4a6b189-8f71-4053-af23-d678cf5c1cc3,55,Associate Degree,14.0,Java,No,113078.99756574839,Mid,Urban,Suitable
+f36e7c53-b29f-44b8-82ff-f8a47e5e9f8a,58,High School,9.0,Communication,No,40403.69497791236,Mid,Suburban,Suitable
+8b6dced3-7b8f-42b6-b3ad-b8ea5854fdc1,57,Master's Degree,9.0,SQL,Yes,90170.92114210897,Mid,Urban,Not Suitable
+eb884242-c9c3-4395-a27b-b172bb126aca,29,High School,8.0,JavaScript,Yes,35278.926263479494,Senior,Suburban,Not Suitable
+88c0fa02-05e6-4da9-b423-839e5a76763d,18,Master's Degree,20.0,Java,Yes,127628.39996656317,Junior,Urban,Not Suitable
+97cb45af-4b31-42b8-a9c4-3b44156c6352,25,,29.0,Python,Yes,60378.94157462268,Junior,Suburban,Not Suitable
+043b841f-e410-4b56-b571-0c935deb131a,29,High School,21.0,SQL,Yes,43494.602209769415,Lead,Rural,Not Suitable
+cd2ea564-74c3-4b81-8e11-f7bbebd22762,51,Bachelor's Degree,29.0,SQL,No,123728.79441341702,Senior,Suburban,Suitable
+c6da42a4-7599-4564-8f21-3fc07b588bde,52,Bachelor's Degree,1.0,Excel,Yes,54509.59867838319,Mid,Rural,Not Suitable
+d87b9ed3-765e-471f-bd28-114f28debe16,21,Master's Degree,29.0,Java,No,92604.90874945081,Mid,Urban,Not Suitable
+fb43ffed-8eb5-4acf-b586-a872c0875047,44,,27.0,SQL,No,78089.17782412907,Senior,Urban,Not Suitable
+3fdd26e9-b2e5-4064-8e16-7ac8ef1607d3,35,Bachelor's Degree,10.0,C++,No,,Lead,Suburban,Suitable
+1c39f8df-b91e-489e-9f94-2234df96cd99,27,Bachelor's Degree,1.0,C++,Yes,58364.52109999535,Lead,Suburban,Suitable
+fc9c223b-4f01-422b-b6a3-a25c561e55ce,36,Master's Degree,8.0,Communication,No,65269.27397710813,Senior,Urban,Suitable
+9d246c22-7965-4536-a368-fc227a7b7828,35,Master's Degree,18.0,C++,Yes,84345.82762877677,Senior,Urban,Not Suitable
+298a3d00-dd83-4760-9c8b-8582b83cf65c,48,Bachelor's Degree,6.0,Java,No,55956.71413077874,Senior,Urban,Not Suitable
+516c1d64-2179-4a8e-8fea-3efe7f028f97,31,Master's Degree,20.0,Python,Yes,47917.20394526179,Senior,Urban,Not Suitable
+8154af60-b101-4484-a530-58b230244c76,20,,27.0,SQL,Yes,72634.97442141295,Lead,Suburban,Not Suitable
+0c79ad2e-1c9e-4039-890a-9073f60fcf36,37,Bachelor's Degree,26.0,JavaScript,No,138451.04759727075,Junior,Urban,Not Suitable
+74a84e56-c48c-47b6-818d-601025771b99,37,Bachelor's Degree,,SQL,No,,Mid,Urban,Suitable
+aaa7104c-7c39-4ace-930c-89486509ca88,47,Associate Degree,21.0,Excel,No,47211.92086439994,Senior,Urban,Suitable
+50caf3fb-b06f-4034-a001-68444134a44e,51,Bachelor's Degree,9.0,SQL,No,38766.624787840454,Lead,Urban,Suitable
+f3ecc2ae-fe62-405f-979a-912ec2d5186f,48,Bachelor's Degree,11.0,JavaScript,No,110771.70435417093,Senior,Urban,Not Suitable
+6e6f2229-0355-4fe4-8bab-df7d682af993,25,Master's Degree,28.0,SQL,Yes,68684.30435688654,Mid,Rural,Not Suitable
+94817844-cb20-4e36-87d1-7c76a9cb26a1,19,Bachelor's Degree,3.0,Java,No,113145.03407207232,Lead,Urban,Suitable
+7671a16e-0130-4f81-8cae-1e4a2023f717,43,High School,18.0,Java,No,146881.3241076657,Senior,Rural,Not Suitable
+07a7022b-d8f7-4c11-9183-a7e440adba7a,24,High School,20.0,SQL,Yes,90221.24424778533,Junior,Rural,Suitable
+7ec9ea19-9f90-4cdd-be67-1c3c254bb3a5,39,,9.0,SQL,Yes,62569.332398316474,Senior,Rural,Not Suitable
+96fee587-70fe-4b75-96e2-f073d6a48625,49,Master's Degree,,C++,Yes,112982.27833219978,Mid,Rural,Not Suitable
+5c6ffcc7-f301-4234-ae82-bbdb7fe1eb22,55,Bachelor's Degree,14.0,Excel,No,119438.06466804708,Junior,Rural,Not Suitable
+4b89194d-7b65-4805-9a37-2f48aefe57e6,51,Associate Degree,11.0,Excel,No,136988.7417996981,Mid,Rural,Suitable
+78fb7d0a-3238-4e91-9bad-9d670e1d58d0,51,High School,7.0,SQL,No,117787.63317789164,Mid,Suburban,Suitable
+fd2244b9-fcfe-48cf-bd3a-2f044d646e89,19,,12.0,SQL,Yes,36161.890573850964,Senior,Rural,Suitable
+33fd7160-d41a-4d3a-b086-bb68be4db271,58,Master's Degree,29.0,Communication,Yes,115540.02868949657,Mid,Urban,Suitable
+e21e511e-46e7-4dfb-9035-e7be0db0f1bc,40,,13.0,Excel,No,58243.97109588294,Lead,Suburban,Suitable
+a8700946-570d-40dd-8470-d9de198e4a2f,41,Bachelor's Degree,20.0,C++,No,50741.57331626423,Senior,Suburban,Not Suitable
+12047517-3511-4b37-ae2b-caf0a74d7e98,32,Associate Degree,24.0,SQL,Yes,,Junior,Suburban,Not Suitable
+2b6e84cf-520d-478f-bd94-5a2e952c2d5b,44,Master's Degree,,C++,No,30966.143252170554,Mid,Suburban,Suitable
+465cd7ef-f5db-4f57-816d-84e41cc265c2,43,Master's Degree,28.0,SQL,No,47779.398730465444,Senior,Urban,Suitable
+1927ff69-347b-410e-a21d-0d898014de17,51,Bachelor's Degree,13.0,C++,Yes,122814.70132358497,Senior,Rural,Suitable
+f430a043-467e-4e0e-a4b2-cbd94cee79d2,27,,28.0,Java,Yes,136862.2621861414,Senior,Rural,Not Suitable
+eb00f537-a5b3-44e4-9929-6dda0c0a4259,31,Associate Degree,29.0,JavaScript,No,68018.69285658651,Mid,Urban,Suitable
